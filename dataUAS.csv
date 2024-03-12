@@ -1,0 +1,1001 @@
+"","gender","race","parental_level_of_education","lunch","test_preparation_course","math_score","reading_score","writing_score","average_score"
+"1","female","group B","bachelor's degree","standard","none",0.72,0.662650602409639,0.711111111111111,0.69963369967033
+"2","female","group C","some college","standard","completed",0.69,0.879518072289157,0.866666666666667,0.805860805824176
+"3","female","group B","master's degree","standard","none",0.9,0.939759036144578,0.922222222222222,0.919413919450549
+"4","male","group A","associate's degree","free/reduced","none",0.47,0.481927710843373,0.377777777777778,0.443223443186813
+"5","male","group C","some college","standard","none",0.76,0.734939759036145,0.722222222222222,0.73992673989011
+"6","female","group B","associate's degree","standard","none",0.71,0.795180722891566,0.755555555555556,0.750915750879121
+"7","female","group B","some college","standard","completed",0.88,0.939759036144578,0.911111111111111,0.908424908461538
+"8","male","group B","some college","free/reduced","none",0.4,0.313253012048193,0.322222222222222,0.347985348021978
+"9","male","group D","high school","free/reduced","completed",0.64,0.566265060240964,0.633333333333333,0.615384615384615
+"10","female","group B","high school","free/reduced","none",0.38,0.518072289156627,0.444444444444444,0.443223443186813
+"11","male","group C","associate's degree","standard","none",0.58,0.44578313253012,0.466666666666667,0.501831501868132
+"12","male","group D","associate's degree","standard","none",0.4,0.421686746987952,0.366666666666667,0.395604395604396
+"13","female","group B","high school","standard","none",0.65,0.771084337349398,0.7,0.703296703296703
+"14","male","group A","some college","standard","completed",0.78,0.662650602409639,0.666666666666667,0.706959706923077
+"15","female","group A","master's degree","standard","none",0.5,0.433734939759036,0.533333333333333,0.490842490879121
+"16","female","group C","some high school","standard","none",0.69,0.698795180722892,0.755555555555556,0.714285714285714
+"17","male","group C","high school","standard","none",0.88,0.867469879518072,0.844444444444444,0.864468864505494
+"18","female","group B","some high school","free/reduced","none",0.18,0.180722891566265,0.2,0.186813186813187
+"19","male","group C","master's degree","free/reduced","completed",0.46,0.301204819277108,0.4,0.391941391978022
+"20","female","group C","associate's degree","free/reduced","none",0.54,0.493975903614458,0.566666666666667,0.534798534835165
+"21","male","group D","high school","standard","none",0.66,0.626506024096386,0.588888888888889,0.626373626373626
+"22","female","group B","some college","free/reduced","completed",0.65,0.698795180722892,0.666666666666667,0.67032967032967
+"23","male","group D","some college","standard","none",0.44,0.44578313253012,0.477777777777778,0.454212454175824
+"24","female","group C","some high school","standard","none",0.69,0.674698795180723,0.7,0.688644688681319
+"25","male","group D","bachelor's degree","free/reduced","completed",0.74,0.650602409638554,0.777777777777778,0.725274725274725
+"26","male","group A","master's degree","free/reduced","none",0.73,0.686746987951807,0.688888888888889,0.703296703296703
+"27","male","group B","some college","standard","none",0.69,0.44578313253012,0.5,0.553113553076923
+"28","female","group C","bachelor's degree","standard","none",0.67,0.626506024096386,0.722222222222222,0.673992673956044
+"29","male","group C","high school","standard","none",0.7,0.63855421686747,0.611111111111111,0.652014651978022
+"30","female","group D","master's degree","standard","none",0.62,0.63855421686747,0.722222222222222,0.659340659340659
+"31","female","group D","some college","standard","none",0.69,0.686746987951807,0.711111111111111,0.695970695934066
+"32","female","group B","some college","standard","none",0.63,0.578313253012048,0.566666666666667,0.593406593406593
+"33","female","group E","master's degree","free/reduced","none",0.56,0.662650602409639,0.611111111111111,0.608058608021978
+"34","male","group D","some college","standard","none",0.4,0.301204819277108,0.311111111111111,0.340659340659341
+"35","male","group E","some college","standard","none",0.97,0.843373493975904,0.8,0.875457875494505
+"36","male","group E","associate's degree","standard","completed",0.81,0.771084337349398,0.766666666666667,0.783882783846154
+"37","female","group D","associate's degree","standard","none",0.74,0.771084337349398,0.811111111111111,0.772893772857143
+"38","female","group D","some high school","free/reduced","none",0.5,0.566265060240964,0.544444444444444,0.534798534835165
+"39","female","group D","associate's degree","free/reduced","completed",0.75,0.879518072289157,0.866666666666667,0.827838827802198
+"40","male","group B","associate's degree","free/reduced","none",0.57,0.469879518072289,0.522222222222222,0.523809523846154
+"41","male","group C","associate's degree","free/reduced","none",0.55,0.530120481927711,0.488888888888889,0.523809523846154
+"42","female","group C","associate's degree","standard","none",0.58,0.674698795180723,0.644444444444444,0.63003663
+"43","female","group B","associate's degree","standard","none",0.53,0.493975903614458,0.611111111111111,0.545787545824176
+"44","male","group B","some college","free/reduced","completed",0.59,0.578313253012048,0.622222222222222,0.597069597032967
+"45","female","group E","associate's degree","free/reduced","none",0.5,0.469879518072289,0.488888888888889,0.487179487142857
+"46","male","group B","associate's degree","standard","none",0.65,0.44578313253012,0.522222222222222,0.545787545824176
+"47","female","group A","associate's degree","standard","completed",0.55,0.578313253012048,0.577777777777778,0.567765567802198
+"48","female","group C","high school","standard","none",0.66,0.650602409638554,0.733333333333333,0.681318681318681
+"49","female","group D","associate's degree","free/reduced","completed",0.57,0.686746987951807,0.733333333333333,0.659340659340659
+"50","male","group C","high school","standard","completed",0.82,0.807228915662651,0.8,0.80952380956044
+"51","male","group E","some college","standard","none",0.53,0.457831325301205,0.422222222222222,0.472527472527473
+"52","male","group E","associate's degree","free/reduced","completed",0.77,0.626506024096386,0.644444444444444,0.684981684945055
+"53","male","group C","some college","standard","none",0.53,0.325301204819277,0.355555555555556,0.41025641021978
+"54","male","group D","high school","standard","none",0.88,0.734939759036145,0.722222222222222,0.783882783846154
+"55","female","group C","some high school","free/reduced","completed",0.71,0.807228915662651,0.855555555555556,0.787545787582418
+"56","female","group C","high school","free/reduced","none",0.33,0.289156626506024,0.366666666666667,0.32967032967033
+"57","female","group E","associate's degree","standard","completed",0.82,0.819277108433735,0.844444444444444,0.827838827802198
+"58","male","group D","associate's degree","standard","none",0.52,0.457831325301205,0.433333333333333,0.472527472527473
+"59","male","group D","some college","standard","completed",0.58,0.506024096385542,0.533333333333333,0.542124542087912
+"60","female","group C","some high school","free/reduced","none",0,0,0,0
+"61","male","group E","bachelor's degree","free/reduced","completed",0.79,0.686746987951807,0.688888888888889,0.725274725274725
+"62","male","group A","some high school","free/reduced","none",0.39,0.265060240963855,0.266666666666667,0.311355311318681
+"63","male","group A","associate's degree","free/reduced","none",0.62,0.530120481927711,0.5,0.553113553076923
+"64","female","group C","associate's degree","standard","none",0.69,0.759036144578313,0.677777777777778,0.706959706923077
+"65","female","group D","some high school","standard","none",0.59,0.493975903614458,0.544444444444444,0.545787545824176
+"66","male","group B","some high school","standard","none",0.67,0.566265060240964,0.566666666666667,0.604395604395604
+"67","male","group D","some high school","free/reduced","none",0.45,0.240963855421687,0.3,0.336996337032967
+"68","female","group C","some college","standard","none",0.6,0.662650602409639,0.711111111111111,0.655677655714286
+"69","male","group B","associate's degree","free/reduced","none",0.61,0.493975903614458,0.511111111111111,0.542124542087912
+"70","female","group C","associate's degree","standard","none",0.39,0.566265060240964,0.522222222222222,0.487179487142857
+"71","female","group D","some college","free/reduced","completed",0.58,0.55421686746988,0.7,0.611721611758242
+"72","male","group D","some college","standard","completed",0.63,0.457831325301205,0.588888888888889,0.564102564065934
+"73","female","group A","associate's degree","free/reduced","none",0.41,0.409638554216867,0.422222222222222,0.413919413956044
+"74","male","group C","some high school","free/reduced","none",0.61,0.481927710843373,0.511111111111111,0.538461538461538
+"75","male","group C","some high school","standard","none",0.49,0.385542168674699,0.344444444444444,0.41025641021978
+"76","male","group B","associate's degree","free/reduced","none",0.44,0.289156626506024,0.311111111111111,0.351648351648352
+"77","male","group E","some high school","standard","none",0.3,0.108433734939759,0.133333333333333,0.186813186813187
+"78","male","group A","bachelor's degree","standard","completed",0.8,0.734939759036145,0.788888888888889,0.776556776593407
+"79","female","group D","some high school","standard","completed",0.61,0.686746987951807,0.688888888888889,0.659340659340659
+"80","female","group E","master's degree","standard","none",0.62,0.614457831325301,0.644444444444444,0.626373626373626
+"81","female","group B","associate's degree","standard","none",0.47,0.385542168674699,0.444444444444444,0.435897435934066
+"82","male","group B","high school","free/reduced","none",0.49,0.337349397590361,0.388888888888889,0.41025641021978
+"83","male","group A","some college","free/reduced","completed",0.5,0.36144578313253,0.488888888888889,0.454212454175824
+"84","male","group E","associate's degree","standard","none",0.72,0.566265060240964,0.588888888888889,0.63003663
+"85","male","group D","high school","free/reduced","none",0.42,0.265060240963855,0.266666666666667,0.322344322307692
+"86","female","group C","some college","standard","none",0.73,0.759036144578313,0.8,0.761904761868132
+"87","female","group C","some college","free/reduced","none",0.76,0.795180722891566,0.866666666666667,0.805860805824176
+"88","female","group D","associate's degree","standard","none",0.71,0.650602409638554,0.711111111111111,0.692307692307692
+"89","female","group A","some college","standard","none",0.58,0.63855421686747,0.633333333333333,0.615384615384615
+"90","female","group D","some high school","standard","none",0.73,0.831325301204819,0.8,0.783882783846154
+"91","female","group C","bachelor's degree","standard","none",0.65,0.662650602409639,0.711111111111111,0.673992673956044
+"92","male","group C","high school","free/reduced","none",0.27,0.204819277108434,0.288888888888889,0.256410256373626
+"93","male","group C","high school","standard","none",0.71,0.746987951807229,0.677777777777778,0.710622710659341
+"94","male","group C","associate's degree","free/reduced","completed",0.43,0.337349397590361,0.444444444444444,0.406593406593407
+"95","female","group B","some college","standard","none",0.79,0.831325301204819,0.911111111111111,0.842490842527473
+"96","male","group C","associate's degree","free/reduced","completed",0.78,0.771084337349398,0.8,0.783882783846154
+"97","male","group B","some high school","standard","completed",0.65,0.590361445783133,0.577777777777778,0.608058608021978
+"98","female","group E","some college","standard","completed",0.63,0.662650602409639,0.666666666666667,0.652014651978022
+"99","female","group D","some college","free/reduced","none",0.58,0.602409638554217,0.577777777777778,0.586080586043956
+"100","female","group D","bachelor's degree","standard","none",0.65,0.602409638554217,0.577777777777778,0.611721611758242
+"101","male","group B","some college","standard","none",0.79,0.602409638554217,0.633333333333333,0.681318681318681
+"102","male","group D","bachelor's degree","standard","completed",0.68,0.686746987951807,0.711111111111111,0.692307692307692
+"103","female","group D","associate's degree","standard","none",0.85,0.891566265060241,0.877777777777778,0.871794871758242
+"104","male","group B","high school","standard","completed",0.6,0.325301204819277,0.411111111111111,0.454212454175824
+"105","male","group C","some college","standard","completed",0.98,0.831325301204819,0.888888888888889,0.904761904725275
+"106","female","group C","some college","standard","none",0.58,0.602409638554217,0.688888888888889,0.622710622747253
+"107","female","group D","master's degree","standard","none",0.87,1,1,0.952380952417582
+"108","male","group E","associate's degree","standard","completed",0.66,0.55421686746988,0.6,0.608058608021978
+"109","female","group B","associate's degree","free/reduced","none",0.52,0.710843373493976,0.666666666666667,0.626373626373626
+"110","female","group B","some high school","standard","none",0.7,0.566265060240964,0.688888888888889,0.655677655714286
+"111","female","group D","associate's degree","free/reduced","completed",0.77,0.867469879518072,0.977777777777778,0.868131868131868
+"112","male","group C","high school","standard","none",0.62,0.457831325301205,0.433333333333333,0.509157509120879
+"113","male","group A","associate's degree","standard","none",0.54,0.433734939759036,0.411111111111111,0.465201465164835
+"114","female","group D","some college","standard","none",0.51,0.493975903614458,0.488888888888889,0.498168498131868
+"115","female","group E","bachelor's degree","standard","completed",0.99,1,1,0.996336996373626
+"116","male","group C","high school","standard","none",0.84,0.72289156626506,0.711111111111111,0.761904761868132
+"117","female","group B","bachelor's degree","free/reduced","none",0.75,0.819277108433735,0.8,0.787545787582418
+"118","female","group D","bachelor's degree","standard","none",0.78,0.783132530120482,0.766666666666667,0.776556776593407
+"119","female","group D","some high school","standard","none",0.51,0.55421686746988,0.566666666666667,0.542124542087912
+"120","female","group C","some college","standard","none",0.55,0.626506024096386,0.611111111111111,0.593406593406593
+"121","female","group C","bachelor's degree","standard","completed",0.79,0.903614457831325,0.877777777777778,0.853479853516483
+"122","male","group B","associate's degree","standard","completed",0.91,0.867469879518072,0.911111111111111,0.897435897472527
+"123","female","group C","some college","standard","completed",0.88,0.91566265060241,0.922222222222222,0.904761904725275
+"124","male","group D","high school","free/reduced","none",0.63,0.481927710843373,0.511111111111111,0.545787545824176
+"125","male","group E","some college","standard","none",0.83,0.759036144578313,0.7,0.765567765604396
+"126","female","group B","high school","standard","none",0.87,0.939759036144578,0.844444444444444,0.882783882747253
+"127","male","group B","some high school","standard","none",0.72,0.614457831325301,0.633333333333333,0.659340659340659
+"128","male","group D","some college","standard","completed",0.65,0.72289156626506,0.711111111111111,0.692307692307692
+"129","male","group D","master's degree","standard","none",0.82,0.783132530120482,0.711111111111111,0.772893772857143
+"130","female","group A","bachelor's degree","standard","none",0.51,0.385542168674699,0.455555555555556,0.454212454175824
+"131","male","group D","master's degree","standard","none",0.89,0.807228915662651,0.8,0.835164835164835
+"132","male","group C","some high school","free/reduced","completed",0.53,0.240963855421687,0.333333333333333,0.377289377252747
+"133","male","group E","some college","free/reduced","completed",0.87,0.686746987951807,0.666666666666667,0.747252747252747
+"134","female","group C","some college","standard","completed",0.75,0.771084337349398,0.822222222222222,0.78021978021978
+"135","male","group D","bachelor's degree","free/reduced","completed",0.74,0.746987951807229,0.722222222222222,0.736263736263736
+"136","male","group C","bachelor's degree","standard","none",0.58,0.457831325301205,0.422222222222222,0.490842490879121
+"137","male","group B","some high school","standard","completed",0.51,0.44578313253012,0.344444444444444,0.435897435934066
+"138","male","group E","high school","standard","none",0.7,0.457831325301205,0.511111111111111,0.564102564065934
+"139","female","group C","associate's degree","standard","none",0.59,0.590361445783133,0.633333333333333,0.604395604395604
+"140","male","group D","some college","standard","completed",0.71,0.530120481927711,0.655555555555556,0.637362637362637
+"141","female","group D","some high school","standard","none",0.76,0.662650602409639,0.677777777777778,0.703296703296703
+"142","female","group C","some college","free/reduced","none",0.59,0.542168674698795,0.6,0.578754578791209
+"143","female","group E","some college","free/reduced","completed",0.42,0.457831325301205,0.488888888888889,0.454212454175824
+"144","male","group A","high school","standard","none",0.57,0.313253012048193,0.411111111111111,0.43956043956044
+"145","male","group D","some college","standard","none",0.88,0.674698795180723,0.755555555555556,0.776556776593407
+"146","female","group C","some college","free/reduced","none",0.22,0.265060240963855,0.255555555555556,0.245421245384615
+"147","male","group B","some high school","standard","none",0.88,0.807228915662651,0.722222222222222,0.805860805824176
+"148","male","group C","associate's degree","free/reduced","none",0.73,0.614457831325301,0.622222222222222,0.659340659340659
+"149","female","group D","bachelor's degree","standard","completed",0.68,0.698795180722892,0.788888888888889,0.721611721648352
+"150","male","group E","associate's degree","free/reduced","completed",1,1,0.922222222222222,0.974358974395604
+"151","male","group A","some high school","standard","completed",0.62,0.602409638554217,0.655555555555556,0.626373626373626
+"152","male","group A","bachelor's degree","standard","none",0.77,0.602409638554217,0.644444444444444,0.677655677692308
+"153","female","group B","associate's degree","standard","completed",0.59,0.63855421686747,0.622222222222222,0.615384615384615
+"154","male","group D","bachelor's degree","standard","none",0.54,0.385542168674699,0.411111111111111,0.450549450549451
+"155","male","group D","some high school","standard","none",0.62,0.602409638554217,0.566666666666667,0.597069597032967
+"156","female","group C","some college","standard","completed",0.7,0.867469879518072,0.866666666666667,0.805860805824176
+"157","female","group E","high school","free/reduced","completed",0.66,0.686746987951807,0.755555555555556,0.69963369967033
+"158","male","group B","some college","free/reduced","none",0.6,0.518072289156627,0.555555555555556,0.56043956043956
+"159","female","group B","associate's degree","standard","completed",0.61,0.831325301204819,0.855555555555556,0.758241758241758
+"160","male","group D","associate's degree","free/reduced","none",0.66,0.542168674698795,0.6,0.604395604395604
+"161","male","group B","associate's degree","free/reduced","completed",0.82,0.734939759036145,0.711111111111111,0.758241758241758
+"162","female","group E","some college","free/reduced","completed",0.75,0.855421686746988,0.833333333333333,0.80952380956044
+"163","male","group B","master's degree","free/reduced","none",0.49,0.433734939759036,0.466666666666667,0.465201465164835
+"164","male","group C","high school","standard","none",0.52,0.433734939759036,0.433333333333333,0.465201465164835
+"165","female","group E","master's degree","standard","none",0.81,0.903614457831325,0.9,0.868131868131868
+"166","female","group C","bachelor's degree","standard","completed",0.96,1,1,0.985347985384615
+"167","male","group C","high school","free/reduced","completed",0.53,0.409638554216867,0.455555555555556,0.468864468901099
+"168","female","group B","master's degree","free/reduced","completed",0.58,0.710843373493976,0.755555555555556,0.677655677692308
+"169","female","group B","high school","standard","completed",0.68,0.795180722891566,0.755555555555556,0.73992673989011
+"170","female","group C","some college","free/reduced","completed",0.67,0.698795180722892,0.666666666666667,0.677655677692308
+"171","male","group A","high school","standard","completed",0.72,0.674698795180723,0.711111111111111,0.703296703296703
+"172","male","group E","some high school","standard","none",0.94,0.855421686746988,0.755555555555556,0.853479853516483
+"173","female","group D","some college","standard","none",0.79,0.831325301204819,0.788888888888889,0.802197802197802
+"174","female","group C","associate's degree","standard","none",0.63,0.602409638554217,0.666666666666667,0.633699633736264
+"175","female","group C","bachelor's degree","free/reduced","completed",0.43,0.409638554216867,0.488888888888889,0.443223443186813
+"176","female","group C","master's degree","standard","completed",0.81,0.891566265060241,0.855555555555556,0.84981684978022
+"177","female","group B","high school","free/reduced","completed",0.46,0.44578313253012,0.533333333333333,0.47985347989011
+"178","female","group C","associate's degree","standard","completed",0.71,0.72289156626506,0.744444444444444,0.725274725274725
+"179","female","group B","master's degree","free/reduced","completed",0.52,0.63855421686747,0.577777777777778,0.575091575054945
+"180","female","group D","some high school","standard","completed",0.97,1,1,0.989010989010989
+"181","male","group C","master's degree","free/reduced","completed",0.62,0.614457831325301,0.722222222222222,0.652014651978022
+"182","female","group C","some college","free/reduced","none",0.46,0.566265060240964,0.622222222222222,0.545787545824176
+"183","female","group E","high school","standard","none",0.5,0.397590361445783,0.411111111111111,0.43956043956044
+"184","female","group D","associate's degree","standard","none",0.65,0.626506024096386,0.666666666666667,0.648351648351648
+"185","male","group C","some high school","free/reduced","completed",0.45,0.421686746987952,0.433333333333333,0.435897435934066
+"186","male","group C","associate's degree","free/reduced","completed",0.65,0.602409638554217,0.611111111111111,0.622710622747253
+"187","male","group E","high school","standard","none",0.8,0.710843373493976,0.611111111111111,0.710622710659341
+"188","male","group D","some high school","standard","completed",0.62,0.590361445783133,0.644444444444444,0.619047619010989
+"189","male","group B","some high school","free/reduced","none",0.48,0.421686746987952,0.388888888888889,0.432234432197802
+"190","female","group C","bachelor's degree","standard","none",0.77,0.855421686746988,0.855555555555556,0.824175824175824
+"191","female","group E","associate's degree","standard","none",0.66,0.578313253012048,0.655555555555556,0.633699633736264
+"192","male","group D","some college","standard","completed",0.76,0.795180722891566,0.766666666666667,0.772893772857143
+"193","female","group B","some high school","standard","none",0.62,0.566265060240964,0.622222222222222,0.604395604395604
+"194","male","group D","some college","standard","completed",0.77,0.542168674698795,0.577777777777778,0.637362637362637
+"195","female","group C","master's degree","standard","completed",0.69,0.807228915662651,0.833333333333333,0.772893772857143
+"196","male","group D","associate's degree","standard","none",0.61,0.457831325301205,0.466666666666667,0.516483516483517
+"197","male","group C","some high school","free/reduced","completed",0.59,0.626506024096386,0.611111111111111,0.608058608021978
+"198","male","group E","high school","free/reduced","none",0.55,0.469879518072289,0.455555555555556,0.494505494505495
+"199","female","group B","some college","free/reduced","none",0.45,0.433734939759036,0.5,0.461538461538462
+"200","female","group B","bachelor's degree","free/reduced","none",0.78,0.746987951807229,0.733333333333333,0.754578754615385
+"201","female","group C","associate's degree","standard","completed",0.67,0.807228915662651,0.844444444444444,0.769230769230769
+"202","female","group D","some college","free/reduced","none",0.65,0.771084337349398,0.744444444444444,0.717948717912088
+"203","male","group C","associate's degree","standard","none",0.69,0.72289156626506,0.655555555555556,0.688644688681319
+"204","female","group B","associate's degree","standard","none",0.57,0.626506024096386,0.644444444444444,0.611721611758242
+"205","male","group C","some college","standard","none",0.59,0.289156626506024,0.355555555555556,0.421245421208791
+"206","male","group D","some high school","standard","completed",0.74,0.650602409638554,0.755555555555556,0.717948717912088
+"207","male","group E","bachelor's degree","standard","none",0.82,0.542168674698795,0.577777777777778,0.655677655714286
+"208","male","group E","high school","standard","completed",0.81,0.759036144578313,0.733333333333333,0.769230769230769
+"209","female","group B","some college","free/reduced","none",0.74,0.771084337349398,0.733333333333333,0.747252747252747
+"210","female","group B","some college","free/reduced","none",0.58,0.530120481927711,0.622222222222222,0.578754578791209
+"211","male","group D","some high school","free/reduced","completed",0.8,0.746987951807229,0.766666666666667,0.772893772857143
+"212","male","group C","some college","free/reduced","none",0.35,0.132530120481928,0.188888888888889,0.230769230769231
+"213","female","group C","high school","free/reduced","none",0.42,0.542168674698795,0.555555555555556,0.501831501868132
+"214","male","group C","associate's degree","free/reduced","completed",0.6,0.409638554216867,0.511111111111111,0.512820512857143
+"215","male","group E","high school","standard","completed",0.87,0.891566265060241,0.788888888888889,0.84981684978022
+"216","male","group B","some high school","standard","completed",0.84,0.795180722891566,0.722222222222222,0.787545787582418
+"217","female","group E","associate's degree","free/reduced","completed",0.83,0.831325301204819,0.866666666666667,0.842490842527473
+"218","female","group C","high school","free/reduced","none",0.34,0.301204819277108,0.322222222222222,0.322344322307692
+"219","male","group B","high school","free/reduced","none",0.66,0.72289156626506,0.666666666666667,0.681318681318681
+"220","male","group B","some high school","standard","completed",0.61,0.469879518072289,0.511111111111111,0.534798534835165
+"221","female","group D","high school","standard","completed",0.56,0.614457831325301,0.711111111111111,0.626373626373626
+"222","male","group B","associate's degree","standard","none",0.87,0.819277108433735,0.7,0.798534798571429
+"223","female","group C","some high school","free/reduced","none",0.55,0.578313253012048,0.577777777777778,0.567765567802198
+"224","male","group D","some high school","standard","none",0.86,0.759036144578313,0.722222222222222,0.783882783846154
+"225","female","group B","associate's degree","standard","completed",0.52,0.590361445783133,0.7,0.600732600769231
+"226","female","group E","master's degree","free/reduced","none",0.45,0.469879518072289,0.488888888888889,0.468864468901099
+"227","female","group C","some college","standard","none",0.72,0.662650602409639,0.677777777777778,0.688644688681319
+"228","male","group D","high school","standard","none",0.57,0.397590361445783,0.488888888888889,0.490842490879121
+"229","male","group A","some high school","free/reduced","none",0.68,0.662650602409639,0.6,0.648351648351648
+"230","female","group C","some college","standard","completed",0.88,0.939759036144578,0.933333333333333,0.915750915714286
+"231","male","group D","some college","standard","none",0.76,0.566265060240964,0.622222222222222,0.655677655714286
+"232","male","group C","associate's degree","standard","none",0.46,0.313253012048193,0.355555555555556,0.380952380989011
+"233","female","group B","bachelor's degree","standard","none",0.67,0.831325301204819,0.811111111111111,0.765567765604396
+"234","male","group E","some high school","standard","none",0.92,0.843373493975904,0.755555555555556,0.842490842527473
+"235","male","group C","bachelor's degree","standard","completed",0.83,0.783132530120482,0.822222222222222,0.813186813186813
+"236","male","group D","associate's degree","standard","none",0.8,0.698795180722892,0.744444444444444,0.750915750879121
+"237","male","group D","bachelor's degree","free/reduced","none",0.63,0.590361445783133,0.633333333333333,0.619047619010989
+"238","female","group D","some high school","standard","completed",0.64,0.518072289156627,0.711111111111111,0.626373626373626
+"239","male","group B","some college","standard","none",0.54,0.421686746987952,0.455555555555556,0.476190476153846
+"240","male","group C","associate's degree","standard","none",0.84,0.759036144578313,0.777777777777778,0.794871794835165
+"241","male","group D","high school","free/reduced","completed",0.73,0.614457831325301,0.622222222222222,0.659340659340659
+"242","female","group E","bachelor's degree","standard","none",0.8,0.795180722891566,0.811111111111111,0.802197802197802
+"243","female","group D","high school","standard","none",0.56,0.421686746987952,0.5,0.498168498131868
+"244","male","group E","some college","standard","none",0.59,0.409638554216867,0.366666666666667,0.461538461538462
+"245","male","group D","some high school","standard","none",0.75,0.686746987951807,0.655555555555556,0.69963369967033
+"246","male","group C","associate's degree","standard","none",0.85,0.710843373493976,0.677777777777778,0.750915750879121
+"247","male","group E","associate's degree","standard","none",0.89,0.710843373493976,0.711111111111111,0.776556776593407
+"248","female","group B","high school","standard","completed",0.58,0.63855421686747,0.644444444444444,0.619047619010989
+"249","female","group B","high school","standard","none",0.65,0.566265060240964,0.577777777777778,0.600732600769231
+"250","male","group C","high school","standard","none",0.68,0.518072289156627,0.477777777777778,0.564102564065934
+"251","male","group A","some high school","standard","completed",0.47,0.385542168674699,0.433333333333333,0.432234432197802
+"252","female","group D","some college","free/reduced","none",0.71,0.795180722891566,0.811111111111111,0.769230769230769
+"253","female","group B","some high school","standard","completed",0.6,0.63855421686747,0.666666666666667,0.633699633736264
+"254","male","group D","master's degree","standard","none",0.8,0.759036144578313,0.688888888888889,0.750915750879121
+"255","male","group D","high school","standard","none",0.54,0.421686746987952,0.466666666666667,0.47985347989011
+"256","female","group E","some college","standard","none",0.62,0.674698795180723,0.666666666666667,0.652014651978022
+"257","female","group C","associate's degree","free/reduced","none",0.64,0.674698795180723,0.644444444444444,0.652014651978022
+"258","male","group C","associate's degree","standard","completed",0.78,0.72289156626506,0.744444444444444,0.750915750879121
+"259","female","group B","some college","standard","none",0.7,0.698795180722892,0.755555555555556,0.717948717912088
+"260","female","group C","master's degree","free/reduced","completed",0.65,0.771084337349398,0.788888888888889,0.732600732637363
+"261","female","group C","some high school","free/reduced","completed",0.64,0.746987951807229,0.744444444444444,0.706959706923077
+"262","male","group C","some college","standard","completed",0.79,0.746987951807229,0.755555555555556,0.765567765604396
+"263","female","group C","some high school","free/reduced","none",0.44,0.397590361445783,0.455555555555556,0.432234432197802
+"264","female","group E","high school","standard","none",0.99,0.91566265060241,0.888888888888889,0.934065934065934
+"265","male","group D","high school","standard","none",0.76,0.674698795180723,0.644444444444444,0.695970695934066
+"266","male","group D","some high school","free/reduced","none",0.59,0.301204819277108,0.344444444444444,0.421245421208791
+"267","female","group C","bachelor's degree","standard","none",0.63,0.698795180722892,0.788888888888889,0.703296703296703
+"268","female","group D","high school","standard","none",0.69,0.662650602409639,0.744444444444444,0.69963369967033
+"269","female","group D","associate's degree","standard","completed",0.88,0.903614457831325,0.944444444444444,0.908424908461538
+"270","female","group E","some college","free/reduced","none",0.71,0.710843373493976,0.666666666666667,0.695970695934066
+"271","male","group C","bachelor's degree","standard","none",0.69,0.55421686746988,0.566666666666667,0.608058608021978
+"272","male","group C","some college","standard","none",0.58,0.385542168674699,0.355555555555556,0.446886446923077
+"273","female","group D","associate's degree","free/reduced","none",0.47,0.433734939759036,0.533333333333333,0.47985347989011
+"274","female","group D","some college","standard","none",0.65,0.63855421686747,0.677777777777778,0.655677655714286
+"275","male","group B","some college","standard","completed",0.88,0.819277108433735,0.733333333333333,0.813186813186813
+"276","male","group C","bachelor's degree","standard","none",0.83,0.734939759036145,0.7,0.758241758241758
+"277","female","group C","some high school","standard","completed",0.85,0.903614457831325,0.922222222222222,0.89010989010989
+"278","female","group E","high school","standard","completed",0.59,0.55421686746988,0.722222222222222,0.622710622747253
+"279","female","group C","some high school","free/reduced","none",0.65,0.831325301204819,0.777777777777778,0.747252747252747
+"280","male","group B","bachelor's degree","free/reduced","none",0.73,0.469879518072289,0.522222222222222,0.582417582417582
+"281","male","group D","high school","standard","none",0.53,0.421686746987952,0.355555555555556,0.43956043956044
+"282","male","group D","high school","standard","none",0.45,0.373493975903614,0.4,0.41025641021978
+"283","female","group D","bachelor's degree","free/reduced","none",0.73,0.746987951807229,0.822222222222222,0.765567765604396
+"284","female","group D","some college","free/reduced","completed",0.7,0.734939759036145,0.755555555555556,0.728937728901099
+"285","female","group B","some high school","standard","none",0.37,0.349397590361446,0.4,0.373626373626374
+"286","male","group B","associate's degree","standard","completed",0.81,0.783132530120482,0.8,0.798534798571429
+"287","male","group E","associate's degree","standard","completed",0.97,0.783132530120482,0.866666666666667,0.879120879120879
+"288","female","group B","some high school","standard","none",0.67,0.867469879518072,0.8,0.772893772857143
+"289","male","group B","bachelor's degree","free/reduced","none",0.88,0.698795180722892,0.733333333333333,0.776556776593407
+"290","male","group E","some high school","standard","completed",0.77,0.710843373493976,0.744444444444444,0.743589743626374
+"291","male","group C","associate's degree","standard","none",0.76,0.63855421686747,0.644444444444444,0.684981684945055
+"292","male","group D","some high school","standard","none",0.86,0.674698795180723,0.666666666666667,0.73992673989011
+"293","male","group C","some high school","standard","completed",0.63,0.518072289156627,0.522222222222222,0.56043956043956
+"294","female","group E","bachelor's degree","standard","none",0.65,0.674698795180723,0.722222222222222,0.681318681318681
+"295","male","group D","high school","free/reduced","completed",0.78,0.72289156626506,0.777777777777778,0.761904761868132
+"296","male","group B","associate's degree","free/reduced","none",0.67,0.542168674698795,0.555555555555556,0.593406593406593
+"297","male","group A","some high school","standard","completed",0.46,0.289156626506024,0.366666666666667,0.377289377252747
+"298","male","group E","associate's degree","standard","completed",0.71,0.686746987951807,0.644444444444444,0.681318681318681
+"299","male","group C","high school","free/reduced","completed",0.4,0.349397590361446,0.444444444444444,0.399267399230769
+"300","male","group D","associate's degree","free/reduced","none",0.9,0.843373493975904,0.722222222222222,0.824175824175824
+"301","male","group A","some college","free/reduced","completed",0.81,0.734939759036145,0.788888888888889,0.78021978021978
+"302","male","group D","some high school","free/reduced","none",0.56,0.44578313253012,0.466666666666667,0.494505494505495
+"303","female","group C","associate's degree","standard","completed",0.67,0.807228915662651,0.788888888888889,0.750915750879121
+"304","male","group B","associate's degree","standard","none",0.8,0.710843373493976,0.6,0.706959706923077
+"305","female","group C","associate's degree","standard","completed",0.74,0.698795180722892,0.811111111111111,0.750915750879121
+"306","male","group A","some college","standard","none",0.69,0.602409638554217,0.655555555555556,0.652014651978022
+"307","male","group E","some college","standard","completed",0.99,0.843373493975904,0.788888888888889,0.879120879120879
+"308","male","group C","some high school","standard","none",0.51,0.421686746987952,0.377777777777778,0.43956043956044
+"309","female","group B","associate's degree","free/reduced","none",0.53,0.650602409638554,0.633333333333333,0.600732600769231
+"310","female","group D","high school","free/reduced","none",0.49,0.481927710843373,0.466666666666667,0.47985347989011
+"311","female","group B","associate's degree","standard","none",0.73,0.710843373493976,0.777777777777778,0.73992673989011
+"312","male","group B","bachelor's degree","standard","none",0.66,0.518072289156627,0.522222222222222,0.571428571428571
+"313","male","group D","bachelor's degree","standard","completed",0.67,0.530120481927711,0.644444444444444,0.619047619010989
+"314","female","group C","associate's degree","free/reduced","completed",0.68,0.602409638554217,0.655555555555556,0.648351648351648
+"315","female","group C","bachelor's degree","standard","completed",0.59,0.566265060240964,0.722222222222222,0.626373626373626
+"316","male","group C","high school","standard","none",0.71,0.590361445783133,0.611111111111111,0.641025640989011
+"317","female","group D","master's degree","standard","completed",0.77,0.783132530120482,0.9,0.816849816813187
+"318","male","group C","associate's degree","standard","none",0.83,0.662650602409639,0.755555555555556,0.754578754615385
+"319","male","group B","bachelor's degree","standard","none",0.63,0.650602409638554,0.655555555555556,0.644688644725275
+"320","female","group D","associate's degree","free/reduced","none",0.56,0.578313253012048,0.588888888888889,0.575091575054945
+"321","female","group C","high school","free/reduced","completed",0.67,0.746987951807229,0.822222222222222,0.743589743626374
+"322","female","group E","high school","standard","none",0.75,0.831325301204819,0.766666666666667,0.78021978021978
+"323","female","group C","some college","standard","none",0.71,0.771084337349398,0.777777777777778,0.750915750879121
+"324","female","group C","some high school","free/reduced","none",0.43,0.433734939759036,0.477777777777778,0.446886446923077
+"325","female","group C","high school","free/reduced","none",0.41,0.349397590361446,0.366666666666667,0.377289377252747
+"326","female","group C","some college","standard","none",0.82,0.879518072289157,0.933333333333333,0.875457875494505
+"327","male","group C","some college","standard","none",0.61,0.530120481927711,0.577777777777778,0.575091575054945
+"328","male","group A","some college","free/reduced","none",0.28,0.072289156626506,0.1,0.157509157472527
+"329","male","group C","associate's degree","standard","completed",0.82,0.698795180722892,0.744444444444444,0.758241758241758
+"330","female","group B","some high school","standard","none",0.41,0.457831325301205,0.455555555555556,0.43956043956044
+"331","male","group C","high school","standard","none",0.71,0.518072289156627,0.566666666666667,0.604395604395604
+"332","male","group C","associate's degree","standard","none",0.47,0.240963855421687,0.277777777777778,0.336996337032967
+"333","male","group E","associate's degree","standard","completed",0.62,0.469879518072289,0.477777777777778,0.527472527472527
+"334","male","group B","associate's degree","standard","none",0.9,0.734939759036145,0.788888888888889,0.813186813186813
+"335","female","group C","bachelor's degree","standard","none",0.83,0.91566265060241,0.944444444444444,0.893772893736264
+"336","female","group B","some college","free/reduced","none",0.61,0.614457831325301,0.622222222222222,0.615384615384615
+"337","male","group D","some high school","standard","completed",0.76,0.63855421686747,0.655555555555556,0.688644688681319
+"338","male","group C","associate's degree","standard","none",0.49,0.409638554216867,0.366666666666667,0.424908424945055
+"339","female","group B","some high school","free/reduced","none",0.24,0.253012048192771,0.188888888888889,0.227106227142857
+"340","female","group D","some high school","free/reduced","completed",0.35,0.457831325301205,0.555555555555556,0.450549450549451
+"341","male","group C","high school","free/reduced","none",0.58,0.530120481927711,0.466666666666667,0.527472527472527
+"342","female","group C","high school","standard","none",0.61,0.674698795180723,0.588888888888889,0.622710622747253
+"343","female","group B","high school","standard","completed",0.69,0.710843373493976,0.711111111111111,0.703296703296703
+"344","male","group D","associate's degree","standard","completed",0.67,0.662650602409639,0.633333333333333,0.655677655714286
+"345","male","group D","some college","standard","none",0.79,0.674698795180723,0.633333333333333,0.703296703296703
+"346","female","group C","high school","standard","none",0.72,0.759036144578313,0.722222222222222,0.732600732637363
+"347","male","group B","some college","standard","none",0.62,0.530120481927711,0.522222222222222,0.56043956043956
+"348","female","group C","bachelor's degree","standard","completed",0.77,0.927710843373494,0.944444444444444,0.875457875494505
+"349","male","group D","high school","free/reduced","none",0.75,0.686746987951807,0.622222222222222,0.688644688681319
+"350","male","group E","associate's degree","standard","none",0.87,0.686746987951807,0.733333333333333,0.769230769230769
+"351","female","group B","bachelor's degree","standard","none",0.52,0.578313253012048,0.655555555555556,0.582417582417582
+"352","male","group E","some college","standard","none",0.66,0.481927710843373,0.466666666666667,0.542124542087912
+"353","female","group C","some college","standard","completed",0.63,0.734939759036145,0.777777777777778,0.710622710659341
+"354","female","group C","associate's degree","standard","none",0.46,0.493975903614458,0.522222222222222,0.490842490879121
+"355","female","group C","some college","standard","none",0.59,0.650602409638554,0.666666666666667,0.633699633736264
+"356","female","group B","bachelor's degree","standard","none",0.61,0.662650602409639,0.666666666666667,0.644688644725275
+"357","male","group A","associate's degree","standard","none",0.63,0.530120481927711,0.566666666666667,0.578754578791209
+"358","female","group C","some college","free/reduced","completed",0.42,0.590361445783133,0.655555555555556,0.549450549450549
+"359","male","group D","some college","free/reduced","none",0.59,0.542168674698795,0.566666666666667,0.567765567802198
+"360","female","group D","some college","standard","none",0.8,0.879518072289157,0.877777777777778,0.84981684978022
+"361","female","group B","high school","standard","none",0.58,0.542168674698795,0.544444444444444,0.556776556813187
+"362","male","group B","some high school","standard","completed",0.85,0.807228915662651,0.755555555555556,0.805860805824176
+"363","female","group C","some college","standard","none",0.52,0.493975903614458,0.533333333333333,0.516483516483517
+"364","female","group D","some high school","free/reduced","none",0.27,0.204819277108434,0.244444444444444,0.241758241758242
+"365","male","group C","some college","standard","none",0.59,0.518072289156627,0.533333333333333,0.549450549450549
+"366","male","group A","bachelor's degree","free/reduced","completed",0.49,0.493975903614458,0.555555555555556,0.512820512857143
+"367","male","group C","high school","standard","completed",0.69,0.493975903614458,0.477777777777778,0.56043956043956
+"368","male","group C","bachelor's degree","free/reduced","none",0.61,0.590361445783133,0.566666666666667,0.58974358978022
+"369","female","group A","some high school","free/reduced","none",0.44,0.566265060240964,0.533333333333333,0.509157509120879
+"370","female","group D","some high school","standard","none",0.73,0.807228915662651,0.833333333333333,0.787545787582418
+"371","male","group E","some college","standard","none",0.84,0.72289156626506,0.677777777777778,0.750915750879121
+"372","female","group C","some college","free/reduced","completed",0.45,0.674698795180723,0.666666666666667,0.58974358978022
+"373","male","group D","some high school","standard","none",0.74,0.686746987951807,0.688888888888889,0.706959706923077
+"374","female","group D","some college","standard","completed",0.82,0.963855421686747,0.955555555555556,0.908424908461538
+"375","female","group D","bachelor's degree","standard","none",0.59,0.63855421686747,0.7,0.641025640989011
+"376","male","group E","associate's degree","free/reduced","none",0.46,0.313253012048193,0.344444444444444,0.377289377252747
+"377","female","group D","some high school","standard","none",0.8,0.879518072289157,0.8,0.824175824175824
+"378","female","group D","master's degree","free/reduced","completed",0.85,0.939759036144578,1,0.926739926703297
+"379","female","group A","some high school","standard","none",0.71,0.795180722891566,0.744444444444444,0.747252747252747
+"380","male","group A","bachelor's degree","standard","none",0.66,0.566265060240964,0.577777777777778,0.604395604395604
+"381","female","group B","associate's degree","standard","none",0.8,0.831325301204819,0.811111111111111,0.813186813186813
+"382","male","group C","associate's degree","standard","completed",0.87,1,0.944444444444444,0.934065934065934
+"383","male","group C","master's degree","free/reduced","none",0.79,0.771084337349398,0.677777777777778,0.747252747252747
+"384","female","group E","some high school","free/reduced","none",0.38,0.385542168674699,0.388888888888889,0.384615384615385
+"385","female","group A","some high school","free/reduced","none",0.38,0.313253012048193,0.366666666666667,0.355311355274725
+"386","female","group E","some college","standard","none",0.67,0.710843373493976,0.722222222222222,0.69963369967033
+"387","female","group E","bachelor's degree","standard","none",0.64,0.674698795180723,0.666666666666667,0.659340659340659
+"388","female","group C","associate's degree","free/reduced","none",0.57,0.734939759036145,0.633333333333333,0.641025640989011
+"389","female","group D","high school","standard","none",0.62,0.566265060240964,0.6,0.597069597032967
+"390","male","group D","master's degree","standard","none",0.73,0.63855421686747,0.722222222222222,0.69963369967033
+"391","male","group E","some high school","free/reduced","completed",0.73,0.602409638554217,0.544444444444444,0.63003663
+"392","female","group D","some college","standard","none",0.77,0.614457831325301,0.744444444444444,0.714285714285714
+"393","male","group E","some college","standard","none",0.76,0.602409638554217,0.633333333333333,0.67032967032967
+"394","male","group C","associate's degree","standard","completed",0.57,0.44578313253012,0.511111111111111,0.512820512857143
+"395","female","group C","some high school","standard","completed",0.65,0.686746987951807,0.744444444444444,0.692307692307692
+"396","male","group A","high school","free/reduced","none",0.48,0.337349397590361,0.344444444444444,0.391941391978022
+"397","female","group B","high school","free/reduced","none",0.5,0.602409638554217,0.588888888888889,0.56043956043956
+"398","female","group C","associate's degree","standard","none",0.85,0.867469879518072,0.944444444444444,0.886446886483516
+"399","male","group B","some high school","standard","none",0.74,0.55421686746988,0.522222222222222,0.611721611758242
+"400","male","group D","some high school","standard","none",0.6,0.506024096385542,0.488888888888889,0.534798534835165
+"401","female","group C","some high school","standard","completed",0.59,0.44578313253012,0.633333333333333,0.56043956043956
+"402","male","group A","some college","standard","none",0.53,0.313253012048193,0.366666666666667,0.41025641021978
+"403","female","group A","some college","free/reduced","none",0.49,0.578313253012048,0.5,0.52014652010989
+"404","female","group D","high school","standard","completed",0.88,0.987951807228916,1,0.952380952417582
+"405","female","group C","high school","standard","none",0.54,0.506024096385542,0.577777777777778,0.542124542087912
+"406","female","group C","some high school","standard","none",0.63,0.674698795180723,0.644444444444444,0.648351648351648
+"407","male","group B","associate's degree","standard","completed",0.65,0.578313253012048,0.588888888888889,0.608058608021978
+"408","female","group B","associate's degree","standard","none",0.82,0.759036144578313,0.744444444444444,0.776556776593407
+"409","female","group D","high school","free/reduced","completed",0.52,0.481927710843373,0.511111111111111,0.505494505494505
+"410","male","group D","associate's degree","standard","completed",0.87,0.807228915662651,0.833333333333333,0.838827838791209
+"411","female","group D","master's degree","standard","completed",0.7,0.650602409638554,0.711111111111111,0.688644688681319
+"412","male","group E","some college","standard","completed",0.84,0.795180722891566,0.755555555555556,0.798534798571429
+"413","male","group D","associate's degree","standard","none",0.71,0.590361445783133,0.555555555555556,0.622710622747253
+"414","male","group B","some high school","standard","completed",0.63,0.602409638554217,0.633333333333333,0.622710622747253
+"415","female","group C","bachelor's degree","free/reduced","completed",0.51,0.662650602409639,0.766666666666667,0.641025640989011
+"416","male","group E","high school","standard","none",0.84,0.674698795180723,0.655555555555556,0.728937728901099
+"417","male","group C","bachelor's degree","standard","completed",0.71,0.686746987951807,0.644444444444444,0.681318681318681
+"418","male","group C","associate's degree","standard","none",0.74,0.674698795180723,0.633333333333333,0.684981684945055
+"419","male","group D","some college","standard","none",0.68,0.506024096385542,0.577777777777778,0.593406593406593
+"420","male","group E","high school","free/reduced","completed",0.57,0.469879518072289,0.488888888888889,0.512820512857143
+"421","female","group C","associate's degree","free/reduced","completed",0.82,0.91566265060241,0.922222222222222,0.882783882747253
+"422","female","group D","high school","standard","completed",0.57,0.493975903614458,0.6,0.556776556813187
+"423","female","group D","master's degree","free/reduced","completed",0.47,0.493975903614458,0.633333333333333,0.531135531098901
+"424","female","group A","some high school","standard","completed",0.59,0.819277108433735,0.777777777777778,0.721611721648352
+"425","male","group B","some college","free/reduced","none",0.41,0.265060240963855,0.266666666666667,0.318681318681319
+"426","female","group C","some college","free/reduced","none",0.62,0.602409638554217,0.577777777777778,0.600732600769231
+"427","male","group C","bachelor's degree","standard","none",0.86,0.795180722891566,0.844444444444444,0.835164835164835
+"428","male","group C","some high school","free/reduced","none",0.69,0.650602409638554,0.611111111111111,0.652014651978022
+"429","male","group A","some high school","free/reduced","none",0.65,0.506024096385542,0.477777777777778,0.549450549450549
+"430","male","group C","some high school","free/reduced","none",0.68,0.55421686746988,0.488888888888889,0.578754578791209
+"431","male","group C","associate's degree","free/reduced","none",0.64,0.590361445783133,0.544444444444444,0.593406593406593
+"432","female","group C","high school","standard","none",0.61,0.662650602409639,0.666666666666667,0.644688644725275
+"433","male","group C","high school","standard","none",0.61,0.469879518072289,0.5,0.531135531098901
+"434","female","group A","some high school","free/reduced","none",0.47,0.506024096385542,0.444444444444444,0.472527472527473
+"435","male","group C","some high school","standard","none",0.73,0.590361445783133,0.622222222222222,0.652014651978022
+"436","male","group C","some college","free/reduced","completed",0.5,0.373493975903614,0.477777777777778,0.454212454175824
+"437","male","group D","associate's degree","standard","none",0.75,0.614457831325301,0.6,0.659340659340659
+"438","male","group D","associate's degree","free/reduced","none",0.75,0.590361445783133,0.7,0.684981684945055
+"439","male","group C","high school","standard","none",0.7,0.469879518072289,0.455555555555556,0.549450549450549
+"440","male","group D","some high school","standard","completed",0.89,0.855421686746988,0.8,0.84981684978022
+"441","female","group C","some college","standard","completed",0.67,0.771084337349398,0.766666666666667,0.732600732637363
+"442","female","group D","high school","standard","none",0.78,0.771084337349398,0.777777777777778,0.776556776593407
+"443","female","group A","some high school","free/reduced","none",0.59,0.674698795180723,0.655555555555556,0.637362637362637
+"444","female","group B","associate's degree","standard","none",0.73,0.795180722891566,0.733333333333333,0.750915750879121
+"445","male","group A","some high school","free/reduced","none",0.79,0.783132530120482,0.7,0.758241758241758
+"446","female","group C","some high school","standard","completed",0.67,0.686746987951807,0.744444444444444,0.69963369967033
+"447","male","group D","some college","free/reduced","none",0.69,0.590361445783133,0.555555555555556,0.615384615384615
+"448","male","group C","high school","standard","completed",0.86,0.771084337349398,0.777777777777778,0.805860805824176
+"449","male","group B","high school","standard","none",0.47,0.349397590361446,0.355555555555556,0.395604395604396
+"450","male","group B","associate's degree","standard","none",0.81,0.674698795180723,0.688888888888889,0.728937728901099
+"451","female","group C","some college","free/reduced","completed",0.64,0.819277108433735,0.833333333333333,0.758241758241758
+"452","female","group E","some college","standard","none",1,0.903614457831325,0.966666666666667,0.95970695967033
+"453","female","group C","associate's degree","free/reduced","none",0.65,0.72289156626506,0.711111111111111,0.692307692307692
+"454","male","group C","some college","free/reduced","none",0.65,0.493975903614458,0.433333333333333,0.531135531098901
+"455","female","group C","associate's degree","free/reduced","none",0.53,0.530120481927711,0.577777777777778,0.545787545824176
+"456","male","group C","bachelor's degree","free/reduced","none",0.37,0.469879518072289,0.411111111111111,0.413919413956044
+"457","female","group D","bachelor's degree","standard","none",0.79,0.867469879518072,0.877777777777778,0.842490842527473
+"458","male","group D","associate's degree","free/reduced","none",0.53,0.44578313253012,0.422222222222222,0.468864468901099
+"459","female","group E","bachelor's degree","standard","none",1,1,1,1
+"460","male","group B","high school","standard","completed",0.72,0.578313253012048,0.644444444444444,0.652014651978022
+"461","male","group C","bachelor's degree","free/reduced","none",0.53,0.493975903614458,0.5,0.509157509120879
+"462","male","group B","some college","free/reduced","none",0.54,0.44578313253012,0.388888888888889,0.461538461538462
+"463","female","group E","some college","standard","none",0.71,0.63855421686747,0.733333333333333,0.695970695934066
+"464","female","group C","some college","free/reduced","none",0.77,0.879518072289157,0.9,0.846153846153846
+"465","male","group A","bachelor's degree","standard","completed",0.75,0.493975903614458,0.577777777777778,0.615384615384615
+"466","female","group C","some college","standard","none",0.84,0.843373493975904,0.9,0.860805860769231
+"467","female","group D","associate's degree","free/reduced","none",0.26,0.168674698795181,0.311111111111111,0.249084249120879
+"468","male","group A","high school","free/reduced","completed",0.72,0.602409638554217,0.611111111111111,0.648351648351648
+"469","female","group A","high school","free/reduced","completed",0.77,0.855421686746988,0.833333333333333,0.816849816813187
+"470","male","group C","some college","standard","none",0.91,0.686746987951807,0.733333333333333,0.783882783846154
+"471","female","group C","associate's degree","standard","completed",0.83,0.819277108433735,0.888888888888889,0.846153846153846
+"472","female","group C","high school","standard","none",0.63,0.626506024096386,0.711111111111111,0.655677655714286
+"473","female","group C","associate's degree","standard","completed",0.68,0.831325301204819,0.822222222222222,0.772893772857143
+"474","female","group D","some high school","standard","none",0.59,0.602409638554217,0.566666666666667,0.586080586043956
+"475","female","group B","associate's degree","standard","completed",0.9,0.879518072289157,0.9,0.893772893736264
+"476","female","group D","bachelor's degree","standard","completed",0.71,0.710843373493976,0.811111111111111,0.743589743626374
+"477","male","group E","bachelor's degree","standard","completed",0.76,0.542168674698795,0.622222222222222,0.648351648351648
+"478","male","group D","associate's degree","standard","none",0.8,0.614457831325301,0.688888888888889,0.706959706923077
+"479","female","group D","master's degree","standard","none",0.55,0.566265060240964,0.666666666666667,0.593406593406593
+"480","male","group E","associate's degree","standard","none",0.76,0.650602409638554,0.633333333333333,0.684981684945055
+"481","male","group B","high school","standard","completed",0.73,0.650602409638554,0.644444444444444,0.677655677692308
+"482","female","group D","associate's degree","free/reduced","none",0.52,0.506024096385542,0.511111111111111,0.512820512857143
+"483","male","group C","some college","free/reduced","none",0.68,0.614457831325301,0.566666666666667,0.622710622747253
+"484","male","group A","high school","standard","none",0.59,0.421686746987952,0.4,0.476190476153846
+"485","female","group B","associate's degree","standard","none",0.49,0.421686746987952,0.488888888888889,0.468864468901099
+"486","male","group C","high school","standard","none",0.7,0.686746987951807,0.677777777777778,0.688644688681319
+"487","male","group D","some college","free/reduced","none",0.61,0.36144578313253,0.511111111111111,0.501831501868132
+"488","female","group C","associate's degree","free/reduced","none",0.6,0.698795180722892,0.711111111111111,0.666666666703297
+"489","male","group B","some high school","standard","completed",0.64,0.433734939759036,0.522222222222222,0.538461538461538
+"490","male","group A","associate's degree","free/reduced","completed",0.79,0.783132530120482,0.8,0.791208791208791
+"491","female","group A","associate's degree","free/reduced","none",0.65,0.819277108433735,0.733333333333333,0.728937728901099
+"492","female","group C","associate's degree","standard","none",0.64,0.566265060240964,0.666666666666667,0.626373626373626
+"493","female","group C","some college","standard","none",0.83,0.795180722891566,0.888888888888889,0.838827838791209
+"494","female","group C","bachelor's degree","standard","none",0.81,0.855421686746988,0.888888888888889,0.84981684978022
+"495","female","group B","high school","standard","none",0.54,0.566265060240964,0.644444444444444,0.582417582417582
+"496","male","group D","high school","standard","completed",0.68,0.566265060240964,0.622222222222222,0.626373626373626
+"497","female","group C","some college","standard","none",0.54,0.373493975903614,0.466666666666667,0.465201465164835
+"498","female","group D","some college","free/reduced","completed",0.59,0.734939759036145,0.733333333333333,0.681318681318681
+"499","female","group B","some high school","standard","none",0.66,0.626506024096386,0.644444444444444,0.644688644725275
+"500","male","group E","some college","standard","none",0.76,0.650602409638554,0.688888888888889,0.703296703296703
+"501","female","group D","master's degree","standard","none",0.74,0.746987951807229,0.8,0.761904761868132
+"502","female","group B","associate's degree","standard","completed",0.94,0.843373493975904,0.911111111111111,0.901098901098901
+"503","male","group C","some college","free/reduced","none",0.63,0.530120481927711,0.488888888888889,0.553113553076923
+"504","female","group E","associate's degree","standard","completed",0.95,0.867469879518072,0.911111111111111,0.912087912087912
+"505","female","group D","master's degree","free/reduced","none",0.4,0.506024096385542,0.488888888888889,0.461538461538462
+"506","female","group B","some high school","standard","none",0.82,0.783132530120482,0.777777777777778,0.794871794835165
+"507","male","group A","high school","standard","none",0.68,0.63855421686747,0.622222222222222,0.648351648351648
+"508","male","group B","bachelor's degree","free/reduced","none",0.55,0.506024096385542,0.488888888888889,0.516483516483517
+"509","male","group C","master's degree","standard","none",0.79,0.734939759036145,0.744444444444444,0.758241758241758
+"510","female","group C","bachelor's degree","standard","none",0.86,0.903614457831325,0.855555555555556,0.871794871758242
+"511","male","group D","some college","standard","none",0.76,0.650602409638554,0.7,0.706959706923077
+"512","male","group A","some high school","standard","none",0.64,0.397590361445783,0.366666666666667,0.476190476153846
+"513","male","group D","some high school","free/reduced","none",0.62,0.385542168674699,0.466666666666667,0.498168498131868
+"514","female","group B","some high school","standard","completed",0.54,0.530120481927711,0.577777777777778,0.549450549450549
+"515","female","group B","master's degree","free/reduced","completed",0.77,0.963855421686747,0.933333333333333,0.882783882747253
+"516","female","group C","some high school","standard","completed",0.76,0.843373493975904,0.833333333333333,0.80952380956044
+"517","female","group D","some college","standard","none",0.74,0.867469879518072,0.822222222222222,0.805860805824176
+"518","female","group E","some college","standard","completed",0.66,0.686746987951807,0.7,0.681318681318681
+"519","female","group D","some high school","standard","completed",0.66,0.734939759036145,0.755555555555556,0.714285714285714
+"520","female","group B","high school","free/reduced","completed",0.67,0.734939759036145,0.766666666666667,0.721611721648352
+"521","male","group D","some college","standard","none",0.71,0.385542168674699,0.466666666666667,0.531135531098901
+"522","female","group C","associate's degree","standard","none",0.91,0.831325301204819,0.822222222222222,0.857142857142857
+"523","male","group D","bachelor's degree","standard","none",0.69,0.493975903614458,0.522222222222222,0.575091575054945
+"524","male","group C","master's degree","free/reduced","none",0.54,0.506024096385542,0.444444444444444,0.498168498131868
+"525","male","group C","high school","standard","completed",0.53,0.421686746987952,0.433333333333333,0.465201465164835
+"526","male","group E","some college","standard","none",0.68,0.518072289156627,0.544444444444444,0.586080586043956
+"527","male","group C","some high school","free/reduced","completed",0.56,0.530120481927711,0.555555555555556,0.549450549450549
+"528","female","group C","high school","free/reduced","none",0.36,0.433734939759036,0.366666666666667,0.384615384615385
+"529","female","group D","bachelor's degree","free/reduced","none",0.29,0.289156626506024,0.411111111111111,0.32967032967033
+"530","female","group C","associate's degree","standard","none",0.62,0.686746987951807,0.666666666666667,0.655677655714286
+"531","female","group C","associate's degree","standard","completed",0.68,0.602409638554217,0.7,0.663003662967033
+"532","female","group C","some high school","standard","none",0.47,0.44578313253012,0.477777777777778,0.465201465164835
+"533","male","group E","associate's degree","standard","completed",0.62,0.530120481927711,0.533333333333333,0.564102564065934
+"534","female","group E","associate's degree","standard","completed",0.79,0.855421686746988,0.933333333333333,0.857142857142857
+"535","male","group B","high school","standard","completed",0.73,0.626506024096386,0.644444444444444,0.67032967032967
+"536","female","group C","bachelor's degree","free/reduced","completed",0.66,0.795180722891566,0.811111111111111,0.750915750879121
+"537","male","group C","associate's degree","standard","completed",0.51,0.518072289156627,0.533333333333333,0.52014652010989
+"538","female","group D","high school","standard","none",0.51,0.590361445783133,0.577777777777778,0.556776556813187
+"539","male","group E","bachelor's degree","standard","completed",0.85,0.590361445783133,0.677777777777778,0.714285714285714
+"540","male","group A","associate's degree","standard","completed",0.97,0.903614457831325,0.844444444444444,0.908424908461538
+"541","male","group C","high school","standard","completed",0.75,0.626506024096386,0.644444444444444,0.677655677692308
+"542","male","group D","associate's degree","free/reduced","completed",0.79,0.783132530120482,0.777777777777778,0.783882783846154
+"543","female","group C","associate's degree","standard","none",0.81,0.72289156626506,0.766666666666667,0.769230769230769
+"544","female","group D","associate's degree","standard","none",0.82,0.939759036144578,0.877777777777778,0.875457875494505
+"545","female","group D","master's degree","standard","none",0.64,0.55421686746988,0.622222222222222,0.608058608021978
+"546","male","group E","some high school","free/reduced","completed",0.78,0.795180722891566,0.777777777777778,0.783882783846154
+"547","female","group A","some high school","standard","completed",0.92,1,0.966666666666667,0.95970695967033
+"548","male","group C","high school","standard","completed",0.72,0.602409638554217,0.6,0.644688644725275
+"549","female","group C","high school","free/reduced","none",0.62,0.602409638554217,0.6,0.608058608021978
+"550","male","group C","master's degree","standard","none",0.79,0.662650602409639,0.655555555555556,0.706959706923077
+"551","male","group C","some high school","free/reduced","none",0.79,0.710843373493976,0.611111111111111,0.706959706923077
+"552","male","group B","bachelor's degree","free/reduced","completed",0.87,0.879518072289157,0.866666666666667,0.871794871758242
+"553","female","group B","associate's degree","standard","none",0.4,0.373493975903614,0.444444444444444,0.406593406593407
+"554","male","group D","some college","free/reduced","none",0.77,0.542168674698795,0.6,0.644688644725275
+"555","male","group E","associate's degree","standard","none",0.53,0.337349397590361,0.333333333333333,0.406593406593407
+"556","female","group C","some college","free/reduced","none",0.32,0.265060240963855,0.255555555555556,0.282051282087912
+"557","female","group C","associate's degree","standard","completed",0.55,0.662650602409639,0.766666666666667,0.655677655714286
+"558","male","group C","master's degree","free/reduced","none",0.61,0.602409638554217,0.622222222222222,0.611721611758242
+"559","female","group B","associate's degree","free/reduced","none",0.53,0.63855421686747,0.666666666666667,0.608058608021978
+"560","male","group D","some high school","standard","none",0.73,0.590361445783133,0.577777777777778,0.637362637362637
+"561","female","group D","some college","standard","completed",0.74,0.698795180722892,0.766666666666667,0.736263736263736
+"562","female","group C","some college","standard","none",0.63,0.686746987951807,0.711111111111111,0.673992673956044
+"563","male","group C","bachelor's degree","standard","completed",0.96,0.879518072289157,0.911111111111111,0.919413919450549
+"564","female","group D","some college","free/reduced","completed",0.63,0.759036144578313,0.777777777777778,0.717948717912088
+"565","male","group B","bachelor's degree","free/reduced","none",0.48,0.409638554216867,0.4,0.432234432197802
+"566","male","group B","associate's degree","standard","none",0.48,0.313253012048193,0.388888888888889,0.399267399230769
+"567","female","group E","bachelor's degree","free/reduced","completed",0.92,1,1,0.970695970659341
+"568","female","group D","master's degree","free/reduced","completed",0.61,0.650602409638554,0.755555555555556,0.67032967032967
+"569","male","group B","high school","free/reduced","none",0.63,0.373493975903614,0.411111111111111,0.47985347989011
+"570","male","group D","bachelor's degree","free/reduced","none",0.68,0.614457831325301,0.633333333333333,0.644688644725275
+"571","male","group B","some college","standard","completed",0.71,0.698795180722892,0.666666666666667,0.692307692307692
+"572","male","group A","bachelor's degree","standard","none",0.91,0.951807228915663,0.911111111111111,0.923076923076923
+"573","female","group C","some college","standard","none",0.53,0.542168674698795,0.511111111111111,0.527472527472527
+"574","female","group C","high school","free/reduced","completed",0.5,0.590361445783133,0.6,0.56043956043956
+"575","female","group E","high school","standard","none",0.74,0.771084337349398,0.677777777777778,0.728937728901099
+"576","male","group A","associate's degree","free/reduced","completed",0.4,0.457831325301205,0.477777777777778,0.443223443186813
+"577","male","group A","some college","standard","completed",0.61,0.409638554216867,0.466666666666667,0.501831501868132
+"578","female","group B","high school","standard","none",0.81,0.891566265060241,0.877777777777778,0.857142857142857
+"579","female","group B","some college","free/reduced","completed",0.48,0.469879518072289,0.533333333333333,0.494505494505495
+"580","female","group D","master's degree","standard","none",0.53,0.530120481927711,0.644444444444444,0.567765567802198
+"581","female","group D","some high school","standard","none",0.81,0.963855421686747,0.955555555555556,0.904761904725275
+"582","female","group E","some high school","standard","none",0.77,0.746987951807229,0.777777777777778,0.765567765604396
+"583","female","group D","bachelor's degree","free/reduced","none",0.63,0.674698795180723,0.755555555555556,0.684981684945055
+"584","female","group D","associate's degree","standard","completed",0.73,0.698795180722892,0.777777777777778,0.736263736263736
+"585","female","group D","some college","standard","none",0.69,0.72289156626506,0.744444444444444,0.717948717912088
+"586","female","group C","associate's degree","standard","none",0.65,0.710843373493976,0.733333333333333,0.695970695934066
+"587","female","group A","high school","standard","none",0.55,0.674698795180723,0.7,0.637362637362637
+"588","female","group C","bachelor's degree","free/reduced","none",0.44,0.55421686746988,0.577777777777778,0.52014652010989
+"589","female","group C","some college","standard","none",0.54,0.566265060240964,0.611111111111111,0.571428571428571
+"590","female","group A","some high school","standard","none",0.48,0.590361445783133,0.611111111111111,0.556776556813187
+"591","male","group C","some college","free/reduced","none",0.58,0.481927710843373,0.488888888888889,0.52014652010989
+"592","male","group A","some high school","standard","none",0.71,0.542168674698795,0.444444444444444,0.571428571428571
+"593","male","group E","bachelor's degree","standard","none",0.68,0.614457831325301,0.6,0.633699633736264
+"594","female","group E","high school","standard","none",0.74,0.710843373493976,0.7,0.717948717912088
+"595","female","group C","bachelor's degree","standard","completed",0.92,1,0.988888888888889,0.967032967032967
+"596","female","group C","bachelor's degree","standard","completed",0.56,0.746987951807229,0.688888888888889,0.659340659340659
+"597","male","group B","high school","free/reduced","none",0.3,0.0843373493975904,0.0555555555555556,0.153846153846154
+"598","male","group A","some high school","standard","none",0.53,0.44578313253012,0.422222222222222,0.468864468901099
+"599","female","group D","high school","standard","none",0.69,0.72289156626506,0.7,0.703296703296703
+"600","female","group D","some high school","standard","none",0.65,0.783132530120482,0.788888888888889,0.736263736263736
+"601","female","group D","master's degree","standard","none",0.54,0.518072289156627,0.588888888888889,0.549450549450549
+"602","female","group C","high school","standard","none",0.29,0.144578313253012,0.222222222222222,0.223443223406593
+"603","female","group E","some college","standard","none",0.76,0.734939759036145,0.777777777777778,0.758241758241758
+"604","male","group D","high school","free/reduced","none",0.6,0.481927710843373,0.455555555555556,0.516483516483517
+"605","male","group D","master's degree","free/reduced","completed",0.84,0.867469879518072,0.888888888888889,0.864468864505494
+"606","male","group C","some high school","standard","none",0.75,0.662650602409639,0.577777777777778,0.666666666703297
+"607","female","group C","associate's degree","standard","none",0.85,0.807228915662651,0.8,0.820512820549451
+"608","female","group C","master's degree","free/reduced","none",0.4,0.493975903614458,0.488888888888889,0.457875457912088
+"609","female","group E","some college","standard","none",0.61,0.566265060240964,0.577777777777778,0.586080586043956
+"610","female","group B","associate's degree","standard","none",0.58,0.55421686746988,0.611111111111111,0.582417582417582
+"611","male","group D","some college","free/reduced","completed",0.69,0.518072289156627,0.588888888888889,0.604395604395604
+"612","female","group C","some college","standard","none",0.58,0.506024096385542,0.622222222222222,0.571428571428571
+"613","male","group C","bachelor's degree","standard","completed",0.94,0.879518072289157,0.9,0.908424908461538
+"614","female","group C","associate's degree","standard","none",0.65,0.72289156626506,0.711111111111111,0.692307692307692
+"615","female","group A","associate's degree","standard","none",0.82,0.91566265060241,0.922222222222222,0.882783882747253
+"616","female","group C","high school","standard","none",0.6,0.614457831325301,0.688888888888889,0.633699633736264
+"617","female","group E","bachelor's degree","standard","none",0.37,0.337349397590361,0.311111111111111,0.340659340659341
+"618","male","group D","bachelor's degree","standard","none",0.88,0.734939759036145,0.811111111111111,0.813186813186813
+"619","male","group D","master's degree","standard","none",0.95,0.771084337349398,0.822222222222222,0.853479853516483
+"620","male","group C","associate's degree","free/reduced","completed",0.65,0.674698795180723,0.644444444444444,0.655677655714286
+"621","female","group C","high school","free/reduced","none",0.35,0.530120481927711,0.488888888888889,0.450549450549451
+"622","male","group B","bachelor's degree","free/reduced","none",0.62,0.55421686746988,0.511111111111111,0.564102564065934
+"623","male","group C","high school","free/reduced","completed",0.58,0.409638554216867,0.466666666666667,0.490842490879121
+"624","male","group A","some college","standard","completed",1,0.951807228915663,0.844444444444444,0.934065934065934
+"625","female","group E","bachelor's degree","free/reduced","none",0.61,0.493975903614458,0.577777777777778,0.564102564065934
+"626","male","group D","some college","standard","completed",1,0.963855421686747,0.988888888888889,0.985347985384615
+"627","male","group B","associate's degree","free/reduced","completed",0.69,0.63855421686747,0.588888888888889,0.641025640989011
+"628","male","group D","associate's degree","standard","none",0.61,0.373493975903614,0.4,0.468864468901099
+"629","male","group D","some college","free/reduced","none",0.49,0.481927710843373,0.4,0.457875457912088
+"630","female","group C","some high school","standard","completed",0.44,0.409638554216867,0.5,0.450549450549451
+"631","male","group D","some college","standard","none",0.67,0.566265060240964,0.666666666666667,0.637362637362637
+"632","male","group B","high school","standard","none",0.79,0.518072289156627,0.611111111111111,0.648351648351648
+"633","female","group B","bachelor's degree","standard","completed",0.66,0.686746987951807,0.788888888888889,0.710622710659341
+"634","female","group C","high school","standard","none",0.75,0.855421686746988,0.833333333333333,0.80952380956044
+"635","male","group D","some high school","standard","none",0.84,0.807228915662651,0.777777777777778,0.80952380956044
+"636","male","group A","high school","standard","none",0.71,0.686746987951807,0.6,0.666666666703297
+"637","female","group B","high school","free/reduced","completed",0.67,0.759036144578313,0.788888888888889,0.736263736263736
+"638","female","group D","some high school","standard","completed",0.8,0.903614457831325,0.866666666666667,0.853479853516483
+"639","male","group E","some college","standard","none",0.86,0.710843373493976,0.711111111111111,0.765567765604396
+"640","female","group D","associate's degree","standard","none",0.76,0.686746987951807,0.7,0.717948717912088
+"641","male","group D","high school","standard","none",0.41,0.421686746987952,0.455555555555556,0.428571428571429
+"642","female","group D","associate's degree","free/reduced","completed",0.74,0.855421686746988,0.888888888888889,0.824175824175824
+"643","female","group B","some high school","free/reduced","none",0.72,0.771084337349398,0.766666666666667,0.750915750879121
+"644","female","group E","high school","standard","completed",0.74,0.746987951807229,0.777777777777778,0.754578754615385
+"645","male","group B","high school","standard","none",0.7,0.578313253012048,0.555555555555556,0.615384615384615
+"646","female","group B","bachelor's degree","standard","completed",0.65,0.771084337349398,0.788888888888889,0.732600732637363
+"647","female","group D","associate's degree","standard","none",0.59,0.63855421686747,0.611111111111111,0.611721611758242
+"648","female","group E","high school","free/reduced","none",0.64,0.542168674698795,0.644444444444444,0.611721611758242
+"649","female","group B","high school","standard","none",0.5,0.433734939759036,0.5,0.47985347989011
+"650","female","group D","some college","standard","completed",0.69,0.746987951807229,0.788888888888889,0.73992673989011
+"651","male","group C","some high school","free/reduced","completed",0.51,0.469879518072289,0.477777777777778,0.487179487142857
+"652","female","group A","high school","standard","completed",0.68,0.759036144578313,0.733333333333333,0.721611721648352
+"653","female","group D","some college","standard","completed",0.85,0.831325301204819,0.977777777777778,0.886446886483516
+"654","female","group A","associate's degree","standard","completed",0.65,0.63855421686747,0.711111111111111,0.666666666703297
+"655","female","group B","some high school","standard","none",0.73,0.746987951807229,0.766666666666667,0.747252747252747
+"656","female","group B","some college","standard","none",0.62,0.602409638554217,0.633333333333333,0.619047619010989
+"657","male","group C","associate's degree","free/reduced","none",0.77,0.602409638554217,0.6,0.663003662967033
+"658","male","group D","some high school","standard","none",0.69,0.590361445783133,0.566666666666667,0.619047619010989
+"659","female","group D","associate's degree","free/reduced","none",0.43,0.518072289156627,0.533333333333333,0.490842490879121
+"660","male","group D","associate's degree","standard","none",0.9,0.843373493975904,0.833333333333333,0.860805860769231
+"661","male","group C","some college","free/reduced","none",0.74,0.72289156626506,0.7,0.721611721648352
+"662","male","group C","some high school","standard","none",0.73,0.590361445783133,0.588888888888889,0.641025640989011
+"663","female","group D","some college","free/reduced","none",0.55,0.650602409638554,0.655555555555556,0.615384615384615
+"664","female","group C","high school","standard","none",0.65,0.626506024096386,0.633333333333333,0.637362637362637
+"665","male","group D","associate's degree","standard","none",0.8,0.55421686746988,0.588888888888889,0.655677655714286
+"666","female","group C","some high school","free/reduced","completed",0.5,0.518072289156627,0.555555555555556,0.523809523846154
+"667","female","group C","some college","free/reduced","completed",0.63,0.674698795180723,0.677777777777778,0.659340659340659
+"668","female","group B","bachelor's degree","free/reduced","none",0.77,0.819277108433735,0.855555555555556,0.813186813186813
+"669","male","group C","some college","standard","none",0.73,0.686746987951807,0.566666666666667,0.663003662967033
+"670","male","group D","associate's degree","standard","completed",0.81,0.662650602409639,0.744444444444444,0.743589743626374
+"671","female","group C","high school","free/reduced","none",0.66,0.710843373493976,0.644444444444444,0.67032967032967
+"672","male","group D","associate's degree","free/reduced","none",0.52,0.481927710843373,0.444444444444444,0.483516483516484
+"673","female","group C","some college","standard","none",0.69,0.734939759036145,0.733333333333333,0.717948717912088
+"674","female","group C","associate's degree","standard","completed",0.65,0.807228915662651,0.822222222222222,0.754578754615385
+"675","female","group D","high school","standard","completed",0.69,0.72289156626506,0.755555555555556,0.721611721648352
+"676","female","group B","some college","standard","completed",0.5,0.566265060240964,0.622222222222222,0.56043956043956
+"677","female","group E","some college","standard","completed",0.73,0.734939759036145,0.733333333333333,0.732600732637363
+"678","female","group C","some high school","standard","completed",0.7,0.783132530120482,0.733333333333333,0.736263736263736
+"679","male","group D","associate's degree","free/reduced","none",0.81,0.698795180722892,0.755555555555556,0.758241758241758
+"680","male","group D","some college","free/reduced","none",0.63,0.530120481927711,0.555555555555556,0.575091575054945
+"681","female","group D","high school","standard","none",0.67,0.662650602409639,0.711111111111111,0.681318681318681
+"682","male","group B","high school","standard","none",0.6,0.614457831325301,0.555555555555556,0.58974358978022
+"683","male","group B","high school","standard","none",0.62,0.457831325301205,0.488888888888889,0.527472527472527
+"684","female","group C","some high school","free/reduced","completed",0.29,0.27710843373494,0.377777777777778,0.315018315054945
+"685","male","group B","some college","standard","completed",0.62,0.590361445783133,0.644444444444444,0.619047619010989
+"686","female","group E","master's degree","standard","completed",0.94,0.987951807228916,1,0.974358974395604
+"687","male","group E","some college","standard","completed",0.85,0.698795180722892,0.644444444444444,0.736263736263736
+"688","male","group D","associate's degree","free/reduced","none",0.77,0.734939759036145,0.7,0.736263736263736
+"689","male","group A","high school","free/reduced","none",0.53,0.493975903614458,0.377777777777778,0.468864468901099
+"690","male","group E","some college","free/reduced","none",0.93,0.879518072289157,0.811111111111111,0.875457875494505
+"691","female","group C","associate's degree","standard","none",0.49,0.433734939759036,0.477777777777778,0.468864468901099
+"692","female","group E","associate's degree","free/reduced","none",0.73,0.710843373493976,0.755555555555556,0.732600732637363
+"693","female","group C","bachelor's degree","free/reduced","completed",0.66,0.686746987951807,0.788888888888889,0.710622710659341
+"694","female","group D","associate's degree","standard","none",0.77,0.72289156626506,0.7,0.732600732637363
+"695","female","group C","some high school","standard","none",0.49,0.55421686746988,0.511111111111111,0.516483516483517
+"696","female","group D","some college","free/reduced","none",0.79,0.867469879518072,0.844444444444444,0.831501831538461
+"697","female","group C","associate's degree","standard","completed",0.75,0.783132530120482,0.888888888888889,0.805860805824176
+"698","female","group A","bachelor's degree","standard","none",0.59,0.662650602409639,0.666666666666667,0.637362637362637
+"699","female","group D","associate's degree","standard","completed",0.57,0.734939759036145,0.766666666666667,0.684981684945055
+"700","male","group C","high school","free/reduced","none",0.66,0.590361445783133,0.544444444444444,0.600732600769231
+"701","female","group E","bachelor's degree","standard","completed",0.79,0.771084337349398,0.8,0.787545787582418
+"702","female","group B","some high school","standard","none",0.57,0.602409638554217,0.688888888888889,0.619047619010989
+"703","male","group A","bachelor's degree","standard","completed",0.87,0.807228915662651,0.855555555555556,0.846153846153846
+"704","female","group D","some college","standard","none",0.63,0.566265060240964,0.633333333333333,0.611721611758242
+"705","female","group B","some high school","free/reduced","completed",0.59,0.55421686746988,0.6,0.582417582417582
+"706","male","group A","bachelor's degree","free/reduced","none",0.62,0.662650602409639,0.611111111111111,0.63003663
+"707","male","group D","high school","standard","none",0.46,0.204819277108434,0.288888888888889,0.326007326043956
+"708","male","group C","some college","standard","none",0.66,0.506024096385542,0.466666666666667,0.549450549450549
+"709","male","group D","high school","standard","none",0.89,0.843373493975904,0.766666666666667,0.835164835164835
+"710","female","group D","associate's degree","free/reduced","completed",0.42,0.530120481927711,0.533333333333333,0.490842490879121
+"711","male","group C","some college","standard","completed",0.93,0.807228915662651,0.888888888888889,0.879120879120879
+"712","female","group E","some high school","standard","completed",0.8,0.819277108433735,0.833333333333333,0.816849816813187
+"713","female","group D","some college","standard","none",0.98,1,0.988888888888889,0.989010989010989
+"714","male","group D","master's degree","standard","none",0.81,0.771084337349398,0.822222222222222,0.802197802197802
+"715","female","group B","some high school","standard","completed",0.6,0.63855421686747,0.711111111111111,0.648351648351648
+"716","female","group B","associate's degree","free/reduced","completed",0.76,0.927710843373494,0.855555555555556,0.842490842527473
+"717","male","group C","associate's degree","standard","completed",0.73,0.734939759036145,0.688888888888889,0.717948717912088
+"718","female","group C","associate's degree","standard","completed",0.96,0.951807228915663,0.988888888888889,0.967032967032967
+"719","female","group C","high school","standard","none",0.76,0.710843373493976,0.711111111111111,0.728937728901099
+"720","male","group E","associate's degree","free/reduced","completed",0.91,0.674698795180723,0.777777777777778,0.794871794835165
+"721","female","group C","some college","free/reduced","none",0.62,0.662650602409639,0.666666666666667,0.648351648351648
+"722","male","group D","some high school","free/reduced","completed",0.55,0.506024096385542,0.544444444444444,0.534798534835165
+"723","female","group B","some high school","free/reduced","completed",0.74,0.879518072289157,0.866666666666667,0.824175824175824
+"724","male","group C","high school","standard","none",0.5,0.373493975903614,0.355555555555556,0.413919413956044
+"725","male","group B","some college","standard","none",0.47,0.313253012048193,0.344444444444444,0.380952380989011
+"726","male","group E","some college","standard","completed",0.81,0.686746987951807,0.677777777777778,0.728937728901099
+"727","female","group E","associate's degree","standard","completed",0.65,0.698795180722892,0.744444444444444,0.695970695934066
+"728","male","group E","some high school","standard","completed",0.68,0.409638554216867,0.522222222222222,0.545787545824176
+"729","female","group D","high school","free/reduced","none",0.73,0.903614457831325,0.822222222222222,0.813186813186813
+"730","male","group C","some college","standard","none",0.53,0.265060240963855,0.3,0.373626373626374
+"731","female","group B","associate's degree","free/reduced","completed",0.68,0.72289156626506,0.777777777777778,0.725274725274725
+"732","male","group A","some high school","free/reduced","none",0.55,0.349397590361446,0.366666666666667,0.428571428571429
+"733","female","group C","some college","standard","completed",0.87,0.867469879518072,0.933333333333333,0.89010989010989
+"734","male","group D","some high school","standard","none",0.55,0.36144578313253,0.377777777777778,0.435897435934066
+"735","female","group E","some college","free/reduced","none",0.53,0.493975903614458,0.522222222222222,0.516483516483517
+"736","male","group C","master's degree","standard","none",0.67,0.481927710843373,0.544444444444444,0.571428571428571
+"737","male","group C","associate's degree","standard","none",0.92,0.746987951807229,0.822222222222222,0.835164835164835
+"738","female","group B","some college","free/reduced","completed",0.53,0.590361445783133,0.7,0.604395604395604
+"739","male","group D","associate's degree","standard","none",0.81,0.650602409638554,0.7,0.725274725274725
+"740","male","group C","high school","free/reduced","none",0.61,0.518072289156627,0.5,0.545787545824176
+"741","male","group D","bachelor's degree","standard","none",0.8,0.674698795180723,0.688888888888889,0.725274725274725
+"742","female","group A","associate's degree","free/reduced","none",0.37,0.481927710843373,0.511111111111111,0.450549450549451
+"743","female","group C","high school","standard","none",0.81,0.807228915662651,0.8,0.805860805824176
+"744","female","group C","associate's degree","standard","completed",0.59,0.674698795180723,0.688888888888889,0.648351648351648
+"745","male","group B","some college","free/reduced","none",0.55,0.457831325301205,0.411111111111111,0.476190476153846
+"746","male","group D","associate's degree","standard","none",0.72,0.746987951807229,0.711111111111111,0.725274725274725
+"747","male","group D","high school","standard","none",0.69,0.698795180722892,0.677777777777778,0.688644688681319
+"748","male","group C","some college","standard","none",0.69,0.566265060240964,0.644444444444444,0.637362637362637
+"749","female","group C","bachelor's degree","free/reduced","none",0.5,0.518072289156627,0.544444444444444,0.52014652010989
+"750","male","group B","some college","standard","completed",0.87,0.807228915662651,0.844444444444444,0.842490842527473
+"751","male","group D","some high school","standard","completed",0.71,0.626506024096386,0.644444444444444,0.663003662967033
+"752","male","group E","some college","standard","none",0.68,0.662650602409639,0.611111111111111,0.652014651978022
+"753","male","group C","master's degree","free/reduced","completed",0.79,0.72289156626506,0.722222222222222,0.747252747252747
+"754","female","group C","some high school","standard","completed",0.77,0.879518072289157,0.833333333333333,0.824175824175824
+"755","male","group C","associate's degree","free/reduced","none",0.58,0.457831325301205,0.477777777777778,0.509157509120879
+"756","female","group E","associate's degree","standard","none",0.84,0.939759036144578,0.911111111111111,0.893772893736264
+"757","male","group D","some college","standard","none",0.55,0.493975903614458,0.466666666666667,0.505494505494505
+"758","male","group E","bachelor's degree","free/reduced","completed",0.7,0.614457831325301,0.688888888888889,0.67032967032967
+"759","female","group D","some college","free/reduced","completed",0.52,0.506024096385542,0.611111111111111,0.545787545824176
+"760","male","group B","some college","standard","completed",0.69,0.72289156626506,0.744444444444444,0.717948717912088
+"761","female","group C","high school","free/reduced","none",0.53,0.662650602409639,0.6,0.593406593406593
+"762","female","group D","some high school","standard","none",0.48,0.493975903614458,0.488888888888889,0.487179487142857
+"763","male","group D","some high school","standard","completed",0.78,0.771084337349398,0.844444444444444,0.798534798571429
+"764","female","group B","high school","standard","none",0.62,0.542168674698795,0.588888888888889,0.586080586043956
+"765","male","group D","some college","standard","none",0.6,0.55421686746988,0.544444444444444,0.567765567802198
+"766","female","group B","high school","standard","none",0.74,0.662650602409639,0.688888888888889,0.69963369967033
+"767","female","group C","high school","standard","completed",0.58,0.698795180722892,0.744444444444444,0.67032967032967
+"768","male","group B","high school","standard","completed",0.76,0.542168674698795,0.555555555555556,0.626373626373626
+"769","female","group D","some high school","standard","none",0.68,0.650602409638554,0.722222222222222,0.684981684945055
+"770","male","group A","some college","free/reduced","none",0.58,0.518072289156627,0.522222222222222,0.542124542087912
+"771","male","group B","high school","standard","none",0.52,0.373493975903614,0.433333333333333,0.446886446923077
+"772","male","group D","bachelor's degree","standard","none",0.75,0.674698795180723,0.711111111111111,0.714285714285714
+"773","female","group B","some high school","free/reduced","completed",0.52,0.602409638554217,0.688888888888889,0.600732600769231
+"774","female","group C","bachelor's degree","free/reduced","none",0.62,0.734939759036145,0.766666666666667,0.703296703296703
+"775","male","group B","some college","standard","none",0.66,0.578313253012048,0.555555555555556,0.600732600769231
+"776","female","group B","some high school","free/reduced","none",0.49,0.493975903614458,0.5,0.494505494505495
+"777","female","group B","high school","standard","none",0.66,0.662650602409639,0.666666666666667,0.663003662967033
+"778","female","group C","some college","free/reduced","none",0.35,0.325301204819277,0.366666666666667,0.347985348021978
+"779","female","group A","some college","standard","completed",0.72,0.746987951807229,0.8,0.754578754615385
+"780","male","group E","associate's degree","standard","completed",0.94,0.819277108433735,0.8,0.857142857142857
+"781","female","group D","associate's degree","free/reduced","none",0.46,0.469879518072289,0.522222222222222,0.483516483516484
+"782","female","group B","master's degree","standard","none",0.77,0.879518072289157,0.822222222222222,0.820512820549451
+"783","female","group B","high school","free/reduced","completed",0.76,0.819277108433735,0.8,0.791208791208791
+"784","female","group C","associate's degree","standard","completed",0.52,0.506024096385542,0.577777777777778,0.534798534835165
+"785","male","group C","bachelor's degree","standard","completed",0.91,0.771084337349398,0.766666666666667,0.820512820549451
+"786","female","group B","some high school","standard","completed",0.32,0.409638554216867,0.377777777777778,0.366300366263736
+"787","female","group E","some high school","free/reduced","none",0.72,0.746987951807229,0.744444444444444,0.736263736263736
+"788","female","group B","some college","standard","none",0.19,0.253012048192771,0.244444444444444,0.227106227142857
+"789","male","group C","associate's degree","free/reduced","none",0.68,0.578313253012048,0.566666666666667,0.611721611758242
+"790","female","group C","master's degree","free/reduced","none",0.52,0.578313253012048,0.566666666666667,0.553113553076923
+"791","female","group B","high school","standard","none",0.48,0.542168674698795,0.555555555555556,0.523809523846154
+"792","female","group D","some college","free/reduced","none",0.6,0.590361445783133,0.666666666666667,0.619047619010989
+"793","male","group D","high school","free/reduced","none",0.66,0.686746987951807,0.655555555555556,0.666666666703297
+"794","male","group E","some high school","standard","completed",0.89,0.807228915662651,0.744444444444444,0.816849816813187
+"795","female","group B","high school","standard","none",0.42,0.421686746987952,0.455555555555556,0.432234432197802
+"796","female","group E","associate's degree","free/reduced","completed",0.57,0.614457831325301,0.7,0.626373626373626
+"797","male","group D","high school","standard","none",0.7,0.63855421686747,0.666666666666667,0.67032967032967
+"798","female","group E","associate's degree","free/reduced","none",0.7,0.807228915662651,0.788888888888889,0.761904761868132
+"799","male","group E","some college","standard","none",0.69,0.518072289156627,0.488888888888889,0.571428571428571
+"800","female","group C","associate's degree","standard","none",0.52,0.457831325301205,0.522222222222222,0.501831501868132
+"801","male","group C","some high school","standard","completed",0.67,0.674698795180723,0.644444444444444,0.663003662967033
+"802","male","group C","some high school","standard","completed",0.76,0.759036144578313,0.7,0.73992673989011
+"803","female","group E","associate's degree","standard","none",0.87,0.927710843373494,0.944444444444444,0.912087912087912
+"804","female","group B","some college","standard","none",0.82,0.819277108433735,0.855555555555556,0.831501831538461
+"805","female","group C","some college","standard","none",0.73,0.710843373493976,0.755555555555556,0.732600732637363
+"806","male","group A","some college","free/reduced","none",0.75,0.771084337349398,0.711111111111111,0.743589743626374
+"807","female","group D","some college","free/reduced","none",0.64,0.686746987951807,0.722222222222222,0.681318681318681
+"808","female","group E","high school","free/reduced","none",0.41,0.337349397590361,0.333333333333333,0.362637362637363
+"809","male","group C","high school","standard","none",0.9,0.698795180722892,0.655555555555556,0.758241758241758
+"810","male","group B","bachelor's degree","standard","none",0.59,0.44578313253012,0.455555555555556,0.501831501868132
+"811","male","group A","some high school","standard","none",0.51,0.168674698795181,0.288888888888889,0.333333333296703
+"812","male","group A","high school","free/reduced","none",0.45,0.36144578313253,0.433333333333333,0.417582417582418
+"813","female","group C","master's degree","standard","completed",0.54,0.566265060240964,0.633333333333333,0.578754578791209
+"814","male","group E","some high school","standard","completed",0.87,0.807228915662651,0.733333333333333,0.805860805824176
+"815","female","group C","high school","standard","none",0.72,0.759036144578313,0.811111111111111,0.761904761868132
+"816","male","group B","some high school","standard","completed",0.94,0.831325301204819,0.855555555555556,0.879120879120879
+"817","female","group A","bachelor's degree","standard","none",0.45,0.506024096385542,0.6,0.516483516483517
+"818","male","group D","bachelor's degree","free/reduced","completed",0.61,0.63855421686747,0.733333333333333,0.659340659340659
+"819","female","group B","high school","free/reduced","none",0.6,0.662650602409639,0.644444444444444,0.633699633736264
+"820","female","group C","some high school","standard","none",0.77,0.891566265060241,0.866666666666667,0.838827838791209
+"821","female","group A","some high school","standard","completed",0.85,0.879518072289157,0.911111111111111,0.879120879120879
+"822","female","group D","bachelor's degree","free/reduced","none",0.78,0.879518072289157,0.922222222222222,0.857142857142857
+"823","male","group E","some college","free/reduced","completed",0.49,0.421686746987952,0.455555555555556,0.457875457912088
+"824","female","group B","high school","free/reduced","none",0.71,0.843373493975904,0.8,0.78021978021978
+"825","female","group C","some high school","free/reduced","none",0.48,0.493975903614458,0.466666666666667,0.47985347989011
+"826","male","group C","high school","standard","none",0.62,0.602409638554217,0.533333333333333,0.586080586043956
+"827","female","group C","associate's degree","free/reduced","completed",0.56,0.614457831325301,0.666666666666667,0.611721611758242
+"828","female","group C","some high school","standard","none",0.65,0.626506024096386,0.733333333333333,0.67032967032967
+"829","female","group D","some high school","free/reduced","completed",0.69,0.831325301204819,0.788888888888889,0.765567765604396
+"830","male","group B","some high school","standard","none",0.68,0.44578313253012,0.477777777777778,0.542124542087912
+"831","female","group A","some college","free/reduced","none",0.61,0.518072289156627,0.522222222222222,0.553113553076923
+"832","female","group C","bachelor's degree","free/reduced","completed",0.74,0.831325301204819,0.877777777777778,0.813186813186813
+"833","male","group A","bachelor's degree","standard","none",0.64,0.518072289156627,0.533333333333333,0.567765567802198
+"834","female","group B","high school","standard","completed",0.77,0.783132530120482,0.877777777777778,0.80952380956044
+"835","male","group B","some college","standard","none",0.58,0.397590361445783,0.388888888888889,0.461538461538462
+"836","female","group C","high school","standard","completed",0.6,0.566265060240964,0.711111111111111,0.626373626373626
+"837","male","group E","high school","standard","none",0.73,0.566265060240964,0.522222222222222,0.611721611758242
+"838","female","group A","high school","standard","completed",0.75,0.783132530120482,0.766666666666667,0.765567765604396
+"839","male","group B","associate's degree","free/reduced","completed",0.58,0.481927710843373,0.477777777777778,0.516483516483517
+"840","female","group C","associate's degree","standard","none",0.66,0.72289156626506,0.7,0.692307692307692
+"841","female","group D","high school","free/reduced","none",0.39,0.421686746987952,0.4,0.402930402967033
+"842","male","group C","some high school","standard","none",0.64,0.493975903614458,0.455555555555556,0.534798534835165
+"843","female","group B","high school","free/reduced","completed",0.23,0.325301204819277,0.288888888888889,0.278388278351648
+"844","male","group B","some college","free/reduced","completed",0.74,0.72289156626506,0.733333333333333,0.732600732637363
+"845","female","group D","some high school","free/reduced","completed",0.4,0.578313253012048,0.6,0.52014652010989
+"846","male","group E","master's degree","standard","none",0.9,0.819277108433735,0.822222222222222,0.84981684978022
+"847","male","group C","master's degree","standard","completed",0.91,0.819277108433735,0.833333333333333,0.857142857142857
+"848","male","group D","high school","standard","none",0.64,0.44578313253012,0.444444444444444,0.516483516483517
+"849","female","group C","high school","standard","none",0.59,0.662650602409639,0.644444444444444,0.63003663
+"850","male","group D","associate's degree","standard","none",0.8,0.698795180722892,0.655555555555556,0.721611721648352
+"851","male","group C","master's degree","standard","none",0.71,0.602409638554217,0.633333333333333,0.652014651978022
+"852","female","group A","high school","standard","none",0.61,0.614457831325301,0.588888888888889,0.604395604395604
+"853","female","group E","some college","standard","none",0.87,0.819277108433735,0.922222222222222,0.871794871758242
+"854","male","group E","some high school","standard","none",0.82,0.602409638554217,0.566666666666667,0.67032967032967
+"855","male","group C","some high school","standard","none",0.62,0.566265060240964,0.5,0.564102564065934
+"856","female","group B","bachelor's degree","standard","none",0.97,0.963855421686747,0.955555555555556,0.963369963406593
+"857","male","group B","some college","free/reduced","none",0.75,0.614457831325301,0.611111111111111,0.663003662967033
+"858","female","group C","bachelor's degree","standard","none",0.65,0.746987951807229,0.788888888888889,0.725274725274725
+"859","male","group B","high school","standard","completed",0.52,0.385542168674699,0.4,0.43956043956044
+"860","male","group C","associate's degree","free/reduced","none",0.87,0.674698795180723,0.688888888888889,0.750915750879121
+"861","female","group C","associate's degree","standard","none",0.53,0.542168674698795,0.477777777777778,0.516483516483517
+"862","female","group E","master's degree","free/reduced","none",0.81,0.831325301204819,0.855555555555556,0.831501831538461
+"863","male","group D","bachelor's degree","free/reduced","completed",0.39,0.301204819277108,0.311111111111111,0.336996337032967
+"864","female","group C","some college","standard","completed",0.71,0.650602409638554,0.777777777777778,0.714285714285714
+"865","male","group C","associate's degree","standard","none",0.97,0.91566265060241,0.9,0.93040293043956
+"866","male","group D","some college","standard","completed",0.82,0.783132530120482,0.866666666666667,0.824175824175824
+"867","male","group C","high school","free/reduced","none",0.59,0.433734939759036,0.466666666666667,0.501831501868132
+"868","male","group B","associate's degree","standard","none",0.61,0.301204819277108,0.344444444444444,0.428571428571429
+"869","male","group E","associate's degree","free/reduced","completed",0.78,0.686746987951807,0.688888888888889,0.721611721648352
+"870","male","group C","associate's degree","free/reduced","none",0.49,0.409638554216867,0.455555555555556,0.454212454175824
+"871","male","group B","high school","standard","none",0.59,0.493975903614458,0.411111111111111,0.501831501868132
+"872","female","group C","some college","standard","completed",0.7,0.662650602409639,0.733333333333333,0.69963369967033
+"873","male","group B","associate's degree","standard","completed",0.82,0.807228915662651,0.755555555555556,0.794871794835165
+"874","male","group E","associate's degree","free/reduced","none",0.9,0.879518072289157,0.8,0.860805860769231
+"875","female","group C","bachelor's degree","free/reduced","none",0.43,0.542168674698795,0.566666666666667,0.509157509120879
+"876","male","group C","some college","free/reduced","none",0.8,0.566265060240964,0.622222222222222,0.67032967032967
+"877","male","group D","some college","standard","none",0.81,0.783132530120482,0.822222222222222,0.805860805824176
+"878","male","group C","some high school","standard","none",0.57,0.530120481927711,0.488888888888889,0.531135531098901
+"879","female","group D","some high school","standard","none",0.59,0.662650602409639,0.777777777777778,0.673992673956044
+"880","female","group D","associate's degree","standard","none",0.64,0.710843373493976,0.711111111111111,0.684981684945055
+"881","male","group C","bachelor's degree","standard","completed",0.63,0.566265060240964,0.622222222222222,0.608058608021978
+"882","female","group E","bachelor's degree","standard","completed",0.71,0.63855421686747,0.666666666666667,0.673992673956044
+"883","female","group B","high school","free/reduced","none",0.64,0.674698795180723,0.677777777777778,0.663003662967033
+"884","male","group D","bachelor's degree","free/reduced","none",0.55,0.349397590361446,0.377777777777778,0.432234432197802
+"885","female","group E","associate's degree","standard","none",0.51,0.409638554216867,0.488888888888889,0.472527472527473
+"886","female","group C","associate's degree","standard","completed",0.62,0.710843373493976,0.777777777777778,0.69963369967033
+"887","female","group E","associate's degree","standard","completed",0.93,1,0.944444444444444,0.956043956043956
+"888","male","group C","high school","free/reduced","none",0.54,0.662650602409639,0.544444444444444,0.578754578791209
+"889","female","group D","some college","free/reduced","none",0.69,0.578313253012048,0.711111111111111,0.663003662967033
+"890","male","group D","high school","free/reduced","none",0.44,0.409638554216867,0.422222222222222,0.424908424945055
+"891","female","group E","some college","standard","completed",0.86,0.819277108433735,0.9,0.860805860769231
+"892","female","group E","associate's degree","standard","none",0.85,0.903614457831325,0.833333333333333,0.860805860769231
+"893","female","group A","master's degree","free/reduced","none",0.5,0.602409638554217,0.7,0.597069597032967
+"894","male","group D","some high school","standard","completed",0.88,0.686746987951807,0.722222222222222,0.769230769230769
+"895","female","group E","associate's degree","standard","none",0.59,0.542168674698795,0.655555555555556,0.597069597032967
+"896","female","group E","some high school","free/reduced","none",0.32,0.204819277108434,0.311111111111111,0.282051282087912
+"897","male","group B","high school","free/reduced","none",0.36,0.144578313253012,0.188888888888889,0.238095238131868
+"898","female","group B","some high school","free/reduced","completed",0.63,0.734939759036145,0.766666666666667,0.706959706923077
+"899","male","group D","associate's degree","standard","completed",0.67,0.44578313253012,0.588888888888889,0.575091575054945
+"900","female","group D","some high school","standard","completed",0.65,0.734939759036145,0.8,0.725274725274725
+"901","male","group D","master's degree","standard","none",0.85,0.807228915662651,0.877777777777778,0.846153846153846
+"902","female","group C","master's degree","standard","none",0.73,0.734939759036145,0.711111111111111,0.725274725274725
+"903","female","group A","high school","free/reduced","completed",0.34,0.373493975903614,0.344444444444444,0.351648351648352
+"904","female","group D","bachelor's degree","free/reduced","completed",0.93,1,1,0.974358974395604
+"905","female","group D","some high school","free/reduced","none",0.67,0.807228915662651,0.822222222222222,0.761904761868132
+"906","male","group D","some college","standard","none",0.88,0.72289156626506,0.744444444444444,0.787545787582418
+"907","male","group B","high school","standard","none",0.57,0.373493975903614,0.455555555555556,0.472527472527473
+"908","female","group D","some college","standard","completed",0.79,0.807228915662651,0.9,0.831501831538461
+"909","female","group C","bachelor's degree","free/reduced","none",0.67,0.698795180722892,0.688888888888889,0.684981684945055
+"910","male","group E","bachelor's degree","standard","completed",0.7,0.566265060240964,0.666666666666667,0.648351648351648
+"911","male","group D","bachelor's degree","free/reduced","none",0.5,0.301204819277108,0.422222222222222,0.413919413956044
+"912","female","group A","some college","standard","none",0.69,0.807228915662651,0.8,0.761904761868132
+"913","female","group C","bachelor's degree","standard","completed",0.52,0.530120481927711,0.622222222222222,0.556776556813187
+"914","female","group C","bachelor's degree","free/reduced","completed",0.47,0.542168674698795,0.622222222222222,0.542124542087912
+"915","female","group B","associate's degree","free/reduced","none",0.46,0.530120481927711,0.5,0.494505494505495
+"916","female","group E","some college","standard","none",0.68,0.63855421686747,0.622222222222222,0.648351648351648
+"917","male","group E","bachelor's degree","standard","completed",1,1,1,1
+"918","female","group C","high school","standard","none",0.44,0.530120481927711,0.466666666666667,0.476190476153846
+"919","female","group C","associate's degree","standard","completed",0.57,0.72289156626506,0.777777777777778,0.684981684945055
+"920","male","group B","some college","standard","completed",0.91,0.951807228915663,0.9,0.919413919450549
+"921","male","group D","high school","free/reduced","none",0.69,0.63855421686747,0.633333333333333,0.655677655714286
+"922","female","group C","high school","free/reduced","none",0.35,0.433734939759036,0.4,0.391941391978022
+"923","male","group D","high school","standard","none",0.72,0.590361445783133,0.622222222222222,0.648351648351648
+"924","female","group B","associate's degree","free/reduced","none",0.54,0.578313253012048,0.611111111111111,0.575091575054945
+"925","male","group D","high school","free/reduced","none",0.74,0.63855421686747,0.655555555555556,0.681318681318681
+"926","male","group E","some high school","standard","completed",0.74,0.566265060240964,0.555555555555556,0.626373626373626
+"927","male","group E","associate's degree","free/reduced","none",0.64,0.469879518072289,0.466666666666667,0.531135531098901
+"928","female","group D","high school","free/reduced","completed",0.65,0.530120481927711,0.677777777777778,0.622710622747253
+"929","male","group E","associate's degree","free/reduced","completed",0.46,0.313253012048193,0.377777777777778,0.388278388241758
+"930","female","group C","some high school","free/reduced","none",0.48,0.469879518072289,0.455555555555556,0.468864468901099
+"931","male","group C","some college","free/reduced","completed",0.67,0.686746987951807,0.666666666666667,0.673992673956044
+"932","male","group D","some college","free/reduced","none",0.62,0.481927710843373,0.577777777777778,0.564102564065934
+"933","male","group D","associate's degree","free/reduced","completed",0.61,0.650602409638554,0.7,0.652014651978022
+"934","male","group C","bachelor's degree","free/reduced","completed",0.7,0.698795180722892,0.711111111111111,0.703296703296703
+"935","male","group C","associate's degree","standard","completed",0.98,0.843373493975904,0.888888888888889,0.908424908461538
+"936","male","group D","some college","free/reduced","none",0.7,0.55421686746988,0.533333333333333,0.600732600769231
+"937","male","group A","associate's degree","standard","none",0.67,0.481927710843373,0.477777777777778,0.549450549450549
+"938","female","group E","high school","free/reduced","none",0.57,0.493975903614458,0.522222222222222,0.531135531098901
+"939","male","group D","some college","standard","completed",0.85,0.771084337349398,0.833333333333333,0.820512820549451
+"940","male","group D","some high school","standard","completed",0.77,0.614457831325301,0.655555555555556,0.684981684945055
+"941","male","group C","master's degree","free/reduced","completed",0.72,0.590361445783133,0.688888888888889,0.67032967032967
+"942","female","group D","master's degree","standard","none",0.78,0.891566265060241,0.955555555555556,0.871794871758242
+"943","male","group C","high school","standard","none",0.81,0.590361445783133,0.6,0.673992673956044
+"944","male","group A","some high school","free/reduced","completed",0.61,0.542168674698795,0.566666666666667,0.575091575054945
+"945","female","group B","high school","standard","none",0.58,0.614457831325301,0.566666666666667,0.586080586043956
+"946","female","group C","associate's degree","standard","none",0.54,0.530120481927711,0.533333333333333,0.534798534835165
+"947","male","group B","high school","standard","none",0.82,0.783132530120482,0.777777777777778,0.794871794835165
+"948","female","group D","some college","free/reduced","none",0.49,0.493975903614458,0.555555555555556,0.512820512857143
+"949","male","group B","some high school","free/reduced","completed",0.49,0.397590361445783,0.466666666666667,0.454212454175824
+"950","female","group E","high school","free/reduced","completed",0.57,0.698795180722892,0.7,0.652014651978022
+"951","male","group E","high school","standard","none",0.94,0.674698795180723,0.677777777777778,0.772893772857143
+"952","female","group D","some college","standard","completed",0.75,0.72289156626506,0.811111111111111,0.761904761868132
+"953","female","group E","some high school","free/reduced","none",0.74,0.686746987951807,0.688888888888889,0.706959706923077
+"954","male","group C","high school","standard","completed",0.58,0.421686746987952,0.488888888888889,0.501831501868132
+"955","female","group C","some college","standard","none",0.62,0.626506024096386,0.655555555555556,0.633699633736264
+"956","male","group E","associate's degree","standard","none",0.72,0.481927710843373,0.577777777777778,0.600732600769231
+"957","male","group C","some college","standard","none",0.84,0.843373493975904,0.788888888888889,0.824175824175824
+"958","female","group D","master's degree","standard","none",0.92,1,1,0.970695970659341
+"959","female","group D","high school","standard","none",0.45,0.55421686746988,0.544444444444444,0.512820512857143
+"960","male","group C","high school","standard","none",0.75,0.771084337349398,0.677777777777778,0.732600732637363
+"961","female","group A","some college","standard","none",0.56,0.493975903614458,0.6,0.553113553076923
+"962","female","group D","some high school","free/reduced","none",0.48,0.44578313253012,0.477777777777778,0.468864468901099
+"963","female","group E","associate's degree","standard","none",1,1,1,1
+"964","female","group C","some high school","free/reduced","completed",0.65,0.710843373493976,0.722222222222222,0.692307692307692
+"965","male","group D","some college","standard","none",0.72,0.481927710843373,0.533333333333333,0.586080586043956
+"966","female","group D","some college","standard","none",0.62,0.63855421686747,0.688888888888889,0.648351648351648
+"967","male","group A","some high school","standard","completed",0.66,0.614457831325301,0.6,0.626373626373626
+"968","male","group C","some college","standard","none",0.63,0.55421686746988,0.555555555555556,0.582417582417582
+"969","female","group E","associate's degree","standard","none",0.68,0.710843373493976,0.633333333333333,0.673992673956044
+"970","female","group B","bachelor's degree","standard","none",0.75,0.807228915662651,0.777777777777778,0.776556776593407
+"971","female","group D","bachelor's degree","standard","none",0.89,1,1,0.95970695967033
+"972","male","group C","some high school","standard","completed",0.78,0.662650602409639,0.655555555555556,0.703296703296703
+"973","female","group A","high school","free/reduced","completed",0.53,0.397590361445783,0.555555555555556,0.498168498131868
+"974","female","group D","some college","free/reduced","none",0.49,0.578313253012048,0.566666666666667,0.542124542087912
+"975","female","group A","some college","standard","none",0.54,0.55421686746988,0.633333333333333,0.575091575054945
+"976","female","group C","some college","standard","completed",0.64,0.783132530120482,0.744444444444444,0.717948717912088
+"977","male","group B","some college","free/reduced","completed",0.6,0.542168674698795,0.555555555555556,0.567765567802198
+"978","male","group C","associate's degree","standard","none",0.62,0.578313253012048,0.533333333333333,0.578754578791209
+"979","male","group D","high school","standard","completed",0.55,0.289156626506024,0.422222222222222,0.428571428571429
+"980","female","group C","associate's degree","standard","none",0.91,0.939759036144578,0.933333333333333,0.926739926703297
+"981","female","group B","high school","free/reduced","none",0.08,0.0843373493975904,0.144444444444444,0.102564102527473
+"982","male","group D","some high school","standard","none",0.81,0.734939759036145,0.755555555555556,0.769230769230769
+"983","male","group B","some high school","standard","completed",0.79,0.819277108433735,0.844444444444444,0.816849816813187
+"984","female","group A","some college","standard","completed",0.78,0.843373493975904,0.9,0.838827838791209
+"985","female","group C","some high school","standard","none",0.74,0.698795180722892,0.8,0.747252747252747
+"986","male","group A","high school","standard","none",0.57,0.409638554216867,0.488888888888889,0.494505494505495
+"987","female","group C","associate's degree","standard","none",0.4,0.506024096385542,0.455555555555556,0.450549450549451
+"988","male","group E","some high school","standard","completed",0.81,0.698795180722892,0.733333333333333,0.750915750879121
+"989","female","group A","some high school","free/reduced","none",0.44,0.337349397590361,0.388888888888889,0.391941391978022
+"990","female","group D","some college","free/reduced","completed",0.67,0.831325301204819,0.811111111111111,0.765567765604396
+"991","male","group E","high school","free/reduced","completed",0.86,0.771084337349398,0.722222222222222,0.787545787582418
+"992","female","group B","some high school","standard","completed",0.65,0.783132530120482,0.755555555555556,0.725274725274725
+"993","female","group D","associate's degree","free/reduced","none",0.55,0.710843373493976,0.733333333333333,0.659340659340659
+"994","female","group D","bachelor's degree","free/reduced","none",0.62,0.662650602409639,0.711111111111111,0.663003662967033
+"995","male","group A","high school","standard","none",0.63,0.55421686746988,0.577777777777778,0.58974358978022
+"996","female","group E","master's degree","standard","completed",0.88,0.987951807228916,0.944444444444444,0.934065934065934
+"997","male","group C","high school","free/reduced","none",0.62,0.457831325301205,0.5,0.531135531098901
+"998","female","group C","high school","free/reduced","completed",0.59,0.650602409638554,0.611111111111111,0.615384615384615
+"999","female","group D","some college","standard","completed",0.68,0.734939759036145,0.744444444444444,0.717948717912088
+"1000","female","group D","some college","free/reduced","none",0.77,0.831325301204819,0.844444444444444,0.813186813186813

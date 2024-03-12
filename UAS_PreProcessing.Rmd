@@ -1,0 +1,173 @@
+---
+title: "Data Preprocessing"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+data <- read.csv("D:/FILE DHEA/Kuliah/KMMI/TUGAS/studentperformances.csv")
+head(data)
+```
+## 1. Pengecekan Missing Value
+```{r}
+paste("Jumlah missing value =",sum(is.na(data)))
+```
+
+Tidak ditemukan adanya NA pada data, sehingga data aman dari missing value.
+
+## 2. Pengecekan Duplikasi Data
+```{r}
+duplicated(data)
+```
+
+Tidak ditemukan adanya duplikasi pada data, sehingga data aman dari duplikasi.
+
+## 3. Pengecekan Outlier 
+```{r,fig.height=7, fig.width=12}
+data_num <- data[c(6:9)]
+boxplot(data_num)
+```
+Karena terdapat outlier pada atribut numerik data, maka outlier perlu dihilangkan
+
+### Cek baris outlier
+Sebelum dilakukannya data cleaning, dilakukan proses identifikasi data yang menyebabkan adanya outlier 
+```{r}
+# Variabel Math Score
+boxplot.stats(data$math_score)$out
+out <- boxplot.stats(data$math_score)$out
+out_ind <- which(data$math_score %in% c(out))
+out_ind
+```
+Dari hasil pengecekan data outlier, pada variabel math_score diketahui terdapat 8 data penyebab outlier yaitu pada baris ke 18, 60, 146, 339, 467, 788, 843, dan 981.
+
+```{r}
+# Variabel Reading Score
+boxplot.stats(data$reading_score)$out
+out <- boxplot.stats(data$reading_score)$out
+out_ind <- which(data$reading_score %in% c(out))
+out_ind
+```
+Pada variabel reading_score, terdapat 6 data penyebab outlier diantaranya pada baris ke 60, 77, 212, 328, 597, dan 981.
+
+```{r}
+# Variabel Writing Score
+boxplot.stats(data$writing_score)$out
+out <- boxplot.stats(data$writing_score)$out
+out_ind <- which(data$writing_score %in% c(out))
+out_ind
+```
+Pada variabel writing_score, terdapat 5 data penyebab outlier diantaranya pada baris ke 60, 77, 328, 597, dan 981.
+
+```{r}
+# Variabel Average Score
+boxplot.stats(data$average_score)$out
+out <- boxplot.stats(data$average_score)$out
+out_ind <- which(data$average_score %in% c(out))
+out_ind
+```
+Pada variabel average_score, diketahui terdapat 6 data penyebab outlier yaitu pada baris ke 18, 60, 77, 328, 597, dan 981.
+
+Dari hasil cek outlier keempat variabel, diketahui jumlah data outlier tidak berjumlah besar sehingga dapat dengan mudah dilakukan penghapusan baris. Baris yang terdapat outlier yaitu berjumlah 12 diantaranya pada baris ke 18, 60, 77, 146, 212, 328, 339, 467, 597, 788, 843, dan 981.
+
+### Penghapusan outlier pertama
+```{r}
+newdata1 <- data[-c(18, 60, 77, 146, 212, 328, 339, 467, 597, 788, 843, 981),]
+boxplot(newdata1[c(6:9)])
+```
+
+Dari hasil boxplot setelah dilakukannya proses penghapusan outlier pertama, ternyata masih terdapat outlier pada variabel reading_Score dan averaga_score sehingga perlu dilakukan pengecekan dan data cleaning kedua untuk benar-benar membersihkan outlier pada dataset
+
+### Cek outlier pada variabel reading_score dan average_Score
+```{r}
+boxplot.stats(newdata1$reading_score)$out
+out <- boxplot.stats(newdata1$reading_score)$out
+out_ind <- which(newdata1$reading_score %in% c(out))
+out_ind
+```
+Dari hasil output diketahui terdapat 2 data penyebab outlier pada variabel reading_score yaitu baris ke-593 dan baris ke-886.
+
+```{r}
+boxplot.stats(newdata1$average_score)$out
+out <- boxplot.stats(newdata1$average_score)$out
+out_ind <- which(newdata1$average_score %in% c(out))
+out_ind
+```
+Dari hasil output pada cek data outlier variabel average_score, diketahui terdapat 1 data penyebab outlier yaitu pada varis ke 593.
+
+Dari kedua variabel yang masih terdapat outlier setelah dilakukannya proses data cleaning pertama, diperoleh bahwa terdapat 2 baris penyebab outlier yaitu baris ke-593 dan baris ke-886. Oleh karena data outlier berjumlah sedikit, dapat dilakukan proses penghapusan baris kedua.
+
+
+#Penghapusan outlier kedua
+```{r}
+newdata2 <- newdata1[-c(593, 886),]
+boxplot(newdata2[c(6:9)])
+```
+
+Dari gambar boxplot setelah dilakukan proses penghapusan baris kedua kalinya, dapat diketahui sudah tidak ada outlier pada data. Hal tersebut ditunjukkan dengan tidak ada titik-titik diluar kotak.
+
+
+## 4. Data Transformation
+```{r}
+newdata2[9]<-round(newdata2[9],2)
+head(newdata2)
+```
+Atribut Average Score dibulatkan 2 bilangan di belakang koma agar seragam dengan atribut lainnya.
+
+```{r}
+summary(newdata2)
+```
+Karena dataset sudah dalam bentuk yang sesuai maka transformasi data tidak perlu dilanjutkan.
+
+
+## Results
+###Histogram dan Density
+```{r}
+dens <- density(newdata2$math_score)
+hist(newdata2$math_score, freq = FALSE, 
+     main = "Histogram of math score",
+     xlab = "math_score",
+     col = "lightblue")
+polygon(dens, border = "red")
+
+dens <- density(newdata2$reading_score)
+hist(newdata2$reading_score, freq = FALSE, 
+     main = "Histogram of reading score",
+     xlab = "reading_score",
+     col = "lightblue")
+polygon(dens, border = "red")
+
+dens <- density(newdata2$writing_score)
+hist(newdata2$writing_score, freq = FALSE, 
+     main = "Histogram of writing_score",
+     xlab = "writing_score",
+     col = "lightblue")
+polygon(dens, border = "red")
+
+dens <- density(newdata2$average_score)
+hist(newdata2$average_score, freq = FALSE, 
+     main = "Histogram of average_score",
+     xlab = "average_score",
+     col = "lightblue")
+polygon(dens, border = "red")
+```
+
+Dari hasil output histogram keempat variabel, diketahui kurva berbentuk garis lengkung yang halus dan berbentuk seperti lonceng (Bell Shaped), simetris terhadap rata-rata (mean), kedua ekor/ujungnya semakin mendekati sumbunya tetapi tidak pernah memotong. Sehingga dapat dikatakan newdata2 (data setelah dilakukan preprocessing) berdistribusi normal.
+```{r}
+#membandingkan data sebelum dan sesudah preprocessing
+head(data)
+head(newdata2)
+summary(data)
+summary(newdata2)
+```
+
+
+## Export Dataset
+```{r}
+write.csv(newdata2, "D:/dataset/dataUAS.csv", row.names = FALSE)
+```
+
+
+

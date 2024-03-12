@@ -1,0 +1,60 @@
+---
+title: "Data Preprocessing"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, include=FALSE}
+setwd("D:/FILE DHEA/Kuliah/KMMI/TUGAS")
+```
+
+```{r}
+data<-read.csv("studentperformances.csv")
+head(data)
+```
+
+## 1. Pengecekan Outlier
+```{r,fig.height=7, fig.width=12}
+data_num <- data[c(6:9)]
+boxplot(data_num)
+```
+Karena terdapat outlier pada atribut numerik data, maka outlier perlu dihilangkan
+```{r}
+# menghilangkan outlier
+
+```
+
+## 2. Pengecekan Missing Value
+```{r}
+paste("Jumlah missing value =",sum(is.na(data)))
+```
+Tidak ditemukan adanya NA pada data, sehingga data aman dari missing value.
+
+## 3. Pengecekan Duplikasi Data
+```{r}
+duplicated(data)
+```
+Tidak ditemukan adanya duplikasi pada data, sehingga data aman dari duplikasi.
+
+
+## 4. Data Transformation
+```{r}
+data[9]<-round(data[9],2)
+head(data)
+```
+Atribut Average Score dibulatkan 2 bilangan di belakang koma agar seragam dengan atribut lainnya.
+
+```{r}
+summary(data)
+```
+Karena dataset sudah dalam bentuk yang sesuai maka transformasi data tidak perlu dilanjutkan.
+
+## Export Dataset
+```{r}
+write.csv(data2, "D:/dataset/dataUAS.csv", row.names = FALSE)
+```
+
+
